@@ -1,0 +1,7 @@
+; Cooldown Macro
+; preheats to ABS temperatures
+
+T0                       ; Turn extruder heater on
+G10 P0 S0                ; Set extruder temp
+M140 S0                  ; Set bed temp
+M141 S0                  ; Set chamber temp

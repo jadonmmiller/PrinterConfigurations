@@ -1,0 +1,16 @@
+;
+; A no-action timeout will also return us to the info screen ("main"),
+; but we also give the user the option of going there directly:
+text R0 C2 F0 T"MENU"
+image C35 L"vline.img
+button R0 C36 W92 F0 T"Back to Info Screen" A"return"
+image R11 C0 L"hline.img"
+;
+button R13 C1 F0 V3 H0 T"Preheat      »" A"menu heat" L"heat"
+button R25 C1 F0 V3 H0 T"Print          »" A"menu listFilesSD0" L"listFilesSD0"
+button R37 C1 F0 V3 H0 T"Move Axis   »" A"menu move" L"move"
+button R49 C1 F0 V3 H0 T"Filament     »" A"menu filament" L"filament"
+;
+button R13 C65 F0 V3 H0 T"Run Macro  »" A"menu macros" L"macros"
+button R25 C65 F0 V3 H0 T"Fans           »" A"menu fans" L"fans"
+button R37 C65 F0 V3 H0 T"Advanced   »" A"menu advanced" L"advanced"

@@ -1,0 +1,4 @@
+; Alarm Reset Macro
+; resets a BLTouch alarm
+
+M280 P64 S160                                                        ; Alarm reset

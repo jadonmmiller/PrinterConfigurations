@@ -1,0 +1,70 @@
+2019-11-08 14:31:24 Event logging started
+2019-11-08 14:31:53 Started printing file 0:/gcodes/61068.gcode
+2019-11-08 14:31:53 Error: Bad command: --------------------------2d5a133a9558537a
+2019-11-08 14:31:53 Error: Bad command: Content-Disposition: form-data
+2019-11-08 14:31:53 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 14:33:22 HTTP client 192.168.0.122 login succeeded
+2019-11-08 14:42:40 HTTP client 192.168.0.122 login succeeded
+2019-11-08 14:57:04 HTTP client 192.168.0.122 login succeeded
+2019-11-08 15:03:25 HTTP client 192.168.0.122 login succeeded
+2019-11-08 15:08:25 HTTP client 192.168.0.122 login succeeded
+2019-11-08 15:36:36 HTTP client 192.168.0.122 login succeeded
+2019-11-08 15:40:12 HTTP client 192.168.0.122 login succeeded
+2019-11-08 15:52:47 HTTP client 192.168.0.156 login succeeded
+2019-11-08 16:02:26 Error: Bad command: --------------------------2d5a133a9558537a--
+2019-11-08 16:02:29 Finished printing file 0:/gcodes/61068.gcode, print time was 1h 31m
+2019-11-08 16:02:59 Error: Heating fault on heater 1
+2019-11-08 16:16:44 HTTP client 192.168.0.156 disconnected
+2019-11-08 16:17:04 Started printing file 0:/gcodes/61068-2.gcode
+2019-11-08 16:17:04 Error: Bad command: --------------------------6dad2ebc53c2a679
+2019-11-08 16:17:04 Error: Bad command: Content-Disposition: form-data
+2019-11-08 16:17:04 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 16:30:52 Resume state saved
+2019-11-08 16:30:57 Printing paused at X169.1 Y133.7 Z3.8
+2019-11-08 16:33:16 Cancelled printing file 0:/gcodes/61068-2.gcode, print time was 0h 14m
+2019-11-08 16:34:27 HTTP client 192.168.0.156 disconnected
+2019-11-08 16:34:37 Started printing file 0:/gcodes/61068-3.gcode
+2019-11-08 16:34:37 Error: Bad command: --------------------------357abbcf204006ff
+2019-11-08 16:34:37 Error: Bad command: Content-Disposition: form-data
+2019-11-08 16:34:37 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 16:36:34 Resume state saved
+2019-11-08 16:36:38 Printing paused at X141.5 Y150.0 Z0.3
+2019-11-08 16:42:06 Cancelled printing file 0:/gcodes/61068-3.gcode, print time was 0h 2m
+2019-11-08 16:42:09 Started printing file 0:/gcodes/61068-3.gcode
+2019-11-08 16:42:09 Error: Bad command: --------------------------357abbcf204006ff
+2019-11-08 16:42:09 Error: Bad command: Content-Disposition: form-data
+2019-11-08 16:42:09 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 16:58:01 HTTP client 192.168.0.156 login succeeded
+2019-11-08 16:58:03 HTTP client 192.168.0.156 login succeeded
+2019-11-08 17:12:21 Resume state saved
+2019-11-08 17:12:25 Printing paused at X138.0 Y131.3 Z5.2
+2019-11-08 17:12:25 Cancelled printing file 0:/gcodes/61068-3.gcode, print time was 0h 30m
+2019-11-08 17:12:33 Started printing file 0:/gcodes/61068-3.gcode
+2019-11-08 17:12:33 Error: Bad command: --------------------------357abbcf204006ff
+2019-11-08 17:12:33 Error: Bad command: Content-Disposition: form-data
+2019-11-08 17:12:33 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 17:13:33 HTTP client 192.168.0.126 login succeeded
+2019-11-08 17:13:34 HTTP client 192.168.0.156 login succeeded
+2019-11-08 17:13:39 HTTP client 192.168.0.126 login succeeded
+2019-11-08 17:13:48 HTTP client 192.168.0.126 login succeeded
+2019-11-08 17:13:55 HTTP client 192.168.0.126 login succeeded
+2019-11-08 17:14:03 Resume state saved
+2019-11-08 17:14:07 Printing paused at X153.7 Y146.7 Z0.3
+2019-11-08 17:14:12 Cancelled printing file 0:/gcodes/61068-3.gcode, print time was 0h 2m
+2019-11-08 17:14:16 Started printing file 0:/gcodes/61068-3.gcode
+2019-11-08 17:14:16 Error: Bad command: --------------------------357abbcf204006ff
+2019-11-08 17:14:16 Error: Bad command: Content-Disposition: form-data
+2019-11-08 17:14:16 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 17:15:44 HTTP client 192.168.0.122 login succeeded
+2019-11-08 17:35:41 Resume state saved
+2019-11-08 17:35:45 Printing paused at X133.9 Y140.2 Z3.7
+2019-11-08 17:35:45 Cancelled printing file 0:/gcodes/61068-3.gcode, print time was 0h 21m
+2019-11-08 17:35:51 Started printing file 0:/gcodes/61068-3.gcode
+2019-11-08 17:35:51 Error: Bad command: --------------------------357abbcf204006ff
+2019-11-08 17:35:51 Error: Bad command: Content-Disposition: form-data
+2019-11-08 17:35:51 Error: Bad command: Content-Type: application/octet-stream
+2019-11-08 17:42:26 HTTP client 192.168.0.122 login succeeded
+2019-11-08 17:46:02 HTTP client 192.168.0.126 login succeeded
+2019-11-08 18:29:46 Error: Bad command: --------------------------357abbcf204006ff--
+2019-11-08 18:29:49 Finished printing file 0:/gcodes/61068-3.gcode, print time was 0h 54m
+2019-11-08 18:42:55 Warning: VIN under-voltage event (9.5V)

@@ -1,0 +1,4 @@
+; Touch-Test Mode Macro
+; puts the BLTouch into Touch-Test Mode
+
+M280 P64 S60                                                        ; Touch-test

@@ -1,0 +1,7 @@
+; ABS Preheat Macro
+; preheats to ABS temperatures
+
+T0                       ; Turn extruder heater on
+G10 P0 S280              ; Set extruder temp
+M140 S110                ; Set bed temp
+M141 S70                 ; Set extruder temp

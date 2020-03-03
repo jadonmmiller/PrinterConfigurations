@@ -1,0 +1,4 @@
+; Self-Test Mode Macro
+; puts the BLTouch into self-test mode
+
+M280 P64 S120                                                        ; Self-test mode
