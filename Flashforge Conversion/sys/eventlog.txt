@@ -1,0 +1,1745 @@
+2020-04-11 11:07:56 Event logging started
+2020-04-11 11:39:52 Started printing file 0:gcodes/Valves1.gcode
+2020-04-11 11:39:52 Error: Bad command: --------------------------583cd5b734c7996a
+2020-04-11 11:39:52 Error: Bad command: Content-Disposition: form-data
+2020-04-11 11:39:52 Error: Bad command: Content-Type: application/octet-stream
+2020-04-11 11:57:28 Error: Bad command: --------------------------583cd5b734c7996a--
+2020-04-11 11:57:28 Finished printing file 0:gcodes/Valves1.gcode, print time was 0h 18m
+2020-04-11 13:04:27 HTTP client 192.168.0.156 login succeeded
+2020-04-11 13:31:37 HTTP client 192.168.0.156 login succeeded
+2020-04-11 14:21:16 HTTP client 192.168.0.156 disconnected
+2020-04-11 14:23:24 HTTP client 192.168.0.156 login succeeded
+2020-04-11 14:25:22 HTTP client 192.168.0.156 login succeeded
+2020-04-11 14:25:46 Started printing file 0:/gcodes/TimingCover1.gcode
+2020-04-11 14:25:46 Error: Bad command: --------------------------0b226c7628d1ca84
+2020-04-11 14:25:46 Error: Bad command: Content-Disposition: form-data
+2020-04-11 14:25:46 Error: Bad command: Content-Type: application/octet-stream
+2020-04-11 15:52:50 HTTP client 192.168.0.156 login succeeded
+2020-04-11 16:01:45 HTTP client 192.168.0.156 login succeeded
+2020-04-11 17:26:35 HTTP client 192.168.0.156 login succeeded
+2020-04-11 17:55:18 Error: Bad command: --------------------------0b226c7628d1ca84--
+2020-04-11 17:55:18 Finished printing file 0:/gcodes/TimingCover1.gcode, print time was 3h 30m
+2020-04-11 19:22:59 HTTP client 192.168.0.156 disconnected
+2020-04-11 20:28:04 HTTP client 192.168.0.156 login succeeded
+2020-04-11 20:31:06 Started printing file 0:gcodes/Gears1.gcode
+2020-04-11 20:31:06 Error: Bad command: --------------------------797b7fcc94f518ee
+2020-04-11 20:31:07 Error: Bad command: Content-Disposition: form-data
+2020-04-11 20:31:07 Error: Bad command: Content-Type: application/octet-stream
+2020-04-11 21:24:01 Error: Bad command: --------------------------797b7fcc94f518ee--
+2020-04-11 21:24:01 Finished printing file 0:gcodes/Gears1.gcode, print time was 0h 53m
+2020-04-11 22:49:37 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:03:11 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:19:09 Date and time set at power up + 00:03:11
+2020-04-13 17:24:21 Started printing file 0:/gcodes/1MMouse.gcode
+2020-04-13 17:46:36 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:52:42 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:53:22 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:53:35 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:53:56 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:54:16 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:55:30 HTTP client 192.168.0.158 login succeeded
+2020-04-13 17:55:32 HTTP client 192.168.0.158 login succeeded
+2020-04-13 18:10:37 HTTP client 192.168.0.158 login succeeded
+2020-04-13 18:18:54 HTTP client 192.168.0.158 login succeeded
+2020-04-13 19:36:31 Finished printing file 0:/gcodes/1MMouse.gcode, print time was 2h 12m
+2020-04-13 20:47:51 HTTP client 192.168.0.158 login succeeded
+2020-04-13 20:57:27 77 points probed, min error -0.404, max error 0.249, mean 0.018, deviation 0.144
+Height map saved to file 0:/sys/heightmap.csv
+2020-04-13 20:57:46 HTTP client 192.168.0.122 login succeeded
+2020-04-13 22:27:20 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 01:02:24 HTTP client 192.168.0.158 login succeeded
+2020-04-14 09:01:04 Date and time set at power up + 01:02:24
+2020-04-14 09:01:06 HTTP client 192.168.0.158 login succeeded
+2020-04-14 11:54:09 HTTP client 192.168.0.158 login succeeded
+2020-04-14 14:55:14 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:25:14 HTTP client 192.168.0.158 disconnected
+2020-04-14 16:27:01 HTTP client 192.168.0.158 disconnected
+2020-04-14 16:31:28 HTTP client 192.168.0.158 disconnected
+2020-04-14 16:34:13 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:34:35 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:49:19 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:49:40 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:50:23 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:51:05 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:51:43 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:52:18 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:52:59 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:53:34 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:53:46 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:54:28 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:55:02 HTTP client 192.168.0.158 login succeeded
+2020-04-14 16:55:06 HTTP client 192.168.0.158 login succeeded
+2020-04-14 20:34:20 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:49:22 HTTP client 192.168.0.158 login succeeded
+2020-04-21 21:14:47 Date and time set at power up + 00:49:22
+2020-04-21 21:20:32 HTTP client 192.168.0.158 disconnected
+2020-04-21 21:49:08 Started printing file 0:gcodes/Cam
+2020-04-21 21:49:08 Error: Bad command: --------------------------63ef431bb0edd882
+2020-04-21 21:49:08 Error: Bad command: Content-Disposition: form-data
+2020-04-21 21:49:08 Error: Bad command: Content-Type: application/octet-stream
+2020-04-21 21:52:07 Resume state saved
+2020-04-21 21:52:12 Printing paused at X74.3 Y37.9 Z0.3
+2020-04-21 21:52:23 Cancelled printing file 0:gcodes/Cam, print time was 0h 3m
+2020-04-21 21:52:35 Started printing file 0:gcodes/Cam
+2020-04-21 21:52:35 Error: Bad command: --------------------------63ef431bb0edd882
+2020-04-21 21:52:35 Error: Bad command: Content-Disposition: form-data
+2020-04-21 21:52:35 Error: Bad command: Content-Type: application/octet-stream
+2020-04-21 22:25:41 HTTP client 192.168.0.158 login succeeded
+2020-04-22 02:00:09 HTTP client 192.168.0.158 login succeeded
+2020-04-22 02:58:47 Error: Bad command: --------------------------63ef431bb0edd882--
+2020-04-22 02:58:47 Finished printing file 0:gcodes/Cam, print time was 5h 6m
+2020-04-22 04:06:25 HTTP client 192.168.0.158 login succeeded
+2020-04-22 04:28:10 HTTP client 192.168.0.158 login succeeded
+2020-04-22 07:29:28 HTTP client 192.168.0.158 login succeeded
+2020-04-22 09:18:13 HTTP client 192.168.0.158 disconnected
+2020-04-22 09:48:41 Started printing file 0:/gcodes/RockerPistons.gcode
+2020-04-22 09:48:41 Error: Bad command: --------------------------dba75afb847c7b1c
+2020-04-22 09:48:42 Error: Bad command: Content-Disposition: form-data
+2020-04-22 09:48:42 Error: Bad command: Content-Type: application/octet-stream
+2020-04-22 10:30:40 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:14:17 Error: Bad command: --------------------------dba75afb847c7b1c--
+2020-04-22 13:14:18 Finished printing file 0:/gcodes/RockerPistons.gcode, print time was 3h 26m
+2020-04-22 13:32:06 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:42:08 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:42:26 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:42:58 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:43:16 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:44:07 HTTP client 192.168.0.158 login succeeded
+2020-04-22 13:44:28 HTTP client 192.168.0.158 login succeeded
+2020-04-22 14:49:30 HTTP client 192.168.0.158 login succeeded
+2020-04-22 14:49:47 HTTP client 192.168.0.158 login succeeded
+2020-04-22 14:51:37 HTTP client 192.168.0.158 login succeeded
+2020-04-22 14:51:40 HTTP client 192.168.0.158 login succeeded
+2020-04-22 14:51:56 HTTP client 192.168.0.158 login succeeded
+2020-04-22 14:52:17 HTTP client 192.168.0.158 login succeeded
+2020-04-22 16:33:08 HTTP client 192.168.0.158 login succeeded
+2020-04-22 18:34:53 HTTP client 192.168.0.158 disconnected
+2020-04-22 18:36:04 Started printing file 0:/gcodes/SpringRetainer.gcode
+2020-04-22 18:36:04 Error: Bad command: --------------------------12c2cba50528fa5f
+2020-04-22 18:36:04 Error: Bad command: Content-Disposition: form-data
+2020-04-22 18:36:04 Error: Bad command: Content-Type: application/octet-stream
+2020-04-22 19:00:27 Error: Bad command: --------------------------12c2cba50528fa5f--
+2020-04-22 19:00:27 Finished printing file 0:/gcodes/SpringRetainer.gcode, print time was 0h 24m
+2020-04-22 19:34:33 HTTP client 192.168.0.158 login succeeded
+2020-04-22 22:21:11 Error: Cannot delete file 0:/sys/eventlog.txt because it is open
+2020-04-22 22:24:49 HTTP client 192.168.0.158 disconnected
+2020-04-22 22:29:45 Started printing file 0:/gcodes/Flywheel1.gcode
+2020-04-22 22:29:46 Error: Bad command: --------------------------e6781384c9e89ad2
+2020-04-22 22:29:46 Error: Bad command: Content-Disposition: form-data
+2020-04-22 22:29:46 Error: Bad command: Content-Type: application/octet-stream
+2020-04-22 22:35:48 HTTP client 192.168.0.158 login succeeded
+2020-04-23 01:13:05 Error: Bad command: --------------------------e6781384c9e89ad2--
+2020-04-23 01:13:05 Finished printing file 0:/gcodes/Flywheel1.gcode, print time was 2h 43m
+2020-04-23 04:38:05 HTTP client 192.168.0.158 login succeeded
+2020-04-23 05:15:05 HTTP client 192.168.0.158 login succeeded
+2020-04-23 05:15:26 HTTP client 192.168.0.158 login succeeded
+2020-04-23 07:39:23 HTTP client 192.168.0.158 login succeeded
+2020-04-23 09:12:33 HTTP client 192.168.0.158 login succeeded
+2020-04-23 09:12:52 HTTP client 192.168.0.158 login succeeded
+2020-04-23 10:40:35 HTTP client 192.168.0.158 login succeeded
+2020-04-23 12:39:32 HTTP client 192.168.0.158 login succeeded
+2020-04-23 12:39:33 HTTP client 192.168.0.158 login succeeded
+2020-04-23 12:39:36 HTTP client 192.168.0.158 login succeeded
+2020-04-23 13:41:58 HTTP client 192.168.0.158 login succeeded
+2020-04-23 16:43:14 HTTP client 192.168.0.158 login succeeded
+2020-04-23 19:44:28 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:18:56 HTTP client 192.168.0.158 login succeeded
+2020-05-04 09:25:04 Date and time set at power up + 00:18:56
+2020-05-04 09:27:03 77 points probed, min error -0.355, max error 0.212, mean -0.010, deviation 0.141
+Height map saved to file 0:/sys/heightmap.csv
+2020-05-04 09:27:11 HTTP client 192.168.0.158 disconnected
+2020-05-04 09:29:42 HTTP client 192.168.0.158 disconnected
+2020-05-04 09:31:16 Started printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-04 09:31:16 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-04 09:31:16 Error: Bad command: Content-Disposition: form-data
+2020-05-04 09:31:16 Error: Bad command: Content-Type: application/octet-stream
+2020-05-04 09:33:34 Resume state saved
+2020-05-04 09:33:39 Printing paused at X34.7 Y39.1 Z0.3
+2020-05-04 09:33:40 Cancelled printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 2m
+2020-05-04 09:34:22 HTTP client 192.168.0.122 login succeeded
+2020-05-04 09:36:46 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-04 09:36:46 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-04 09:36:46 Error: Bad command: Content-Disposition: form-data
+2020-05-04 09:36:46 Error: Bad command: Content-Type: application/octet-stream
+2020-05-04 10:11:02 HTTP client 192.168.0.158 login succeeded
+2020-05-04 10:11:20 HTTP client 192.168.0.158 login succeeded
+2020-05-04 10:52:26 HTTP client 192.168.0.122 login succeeded
+2020-05-04 12:04:02 HTTP client 192.168.0.158 login succeeded
+2020-05-04 12:16:56 HTTP client 192.168.0.158 login succeeded
+2020-05-04 13:06:26 HTTP client 192.168.0.158 login succeeded
+2020-05-04 13:06:29 HTTP client 192.168.0.158 login succeeded
+2020-05-04 13:20:02 HTTP client 192.168.0.158 login succeeded
+2020-05-04 14:22:56 HTTP client 192.168.0.158 login succeeded
+2020-05-04 15:05:17 HTTP client 192.168.0.158 login succeeded
+2020-05-04 15:26:00 HTTP client 192.168.0.158 login succeeded
+2020-05-04 15:28:06 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:28:54 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:29:35 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:30:12 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:32:05 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:34:27 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:43:04 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:46:39 Error: Bad command: --------------------------b602a1e057277af5--
+2020-05-04 15:46:39 Finished printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 10m
+2020-05-04 15:49:29 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:51:05 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:51:25 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:52:00 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:52:55 HTTP client 192.168.0.122 login succeeded
+2020-05-04 15:56:15 HTTP client 192.168.0.122 login succeeded
+2020-05-04 16:29:00 HTTP client 192.168.0.158 login succeeded
+2020-05-04 17:31:52 HTTP client 192.168.0.158 login succeeded
+2020-05-04 18:06:40 HTTP client 192.168.0.158 login succeeded
+2020-05-04 18:34:50 HTTP client 192.168.0.158 login succeeded
+2020-05-04 19:37:57 HTTP client 192.168.0.158 login succeeded
+2020-05-04 20:40:56 HTTP client 192.168.0.158 login succeeded
+2020-05-04 21:07:45 HTTP client 192.168.0.158 login succeeded
+2020-05-04 21:22:58 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:10:34 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 00:10:34 Error: Bad command: --------------------------b602a1e057277af5
+power up + 00:10:34 Error: Bad command: Content-Disposition: form-data
+power up + 00:10:34 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:10:34 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:23 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 00:00:23 Error: Bad command: --------------------------b602a1e057277af5
+power up + 00:00:23 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:23 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:00:23 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:23 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 0m
+power up + 00:00:23 Error: G0/G1: insufficient axes homed
+power up + 00:00:30 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 00:00:30 Error: Bad command: --------------------------b602a1e057277af5
+power up + 00:00:30 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:30 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:00:30 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:30 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 0m
+power up + 00:00:30 Error: G0/G1: insufficient axes homed
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:06 Network running, IP address = 192.168.0.124
+power up + 00:00:07 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 00:00:07 Error: Bad command: --------------------------b602a1e057277af5
+power up + 00:00:07 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:07 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:00:08 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:08 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 0m
+power up + 00:00:08 Error: G0/G1: insufficient axes homed
+power up + 00:01:27 HTTP client 192.168.0.122 login succeeded
+2020-05-11 08:43:55 Date and time set at power up + 00:01:27
+2020-05-11 08:44:48 Started printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-11 08:44:48 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-11 08:44:48 Error: Bad command: Content-Disposition: form-data
+2020-05-11 08:44:48 Error: Bad command: Content-Type: application/octet-stream
+2020-05-11 14:56:12 Error: Bad command: --------------------------b602a1e057277af5--
+2020-05-11 14:56:12 Finished printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 11m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:14:32 Warning: the height map has a substantial Z offset. Suggest use Z-probe to establish Z=0 datum, then re-probe the mesh.
+power up + 00:14:32 77 points probed, min error -0.280, max error 0.005, mean -0.123, deviation 0.057
+Height map saved to file 0:/sys/heightmap.csv
+power up + 10:36:10 HTTP client 192.168.0.122 login succeeded
+2020-05-12 07:46:23 Date and time set at power up + 10:36:10
+2020-05-12 07:47:33 Started printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-12 07:47:33 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-12 07:47:33 Error: Bad command: Content-Disposition: form-data
+2020-05-12 07:47:33 Error: Bad command: Content-Type: application/octet-stream
+2020-05-12 07:50:46 Resume state saved
+2020-05-12 07:50:54 Printing paused at X62.6 Y104.2 Z0.3
+2020-05-12 07:50:56 Cancelled printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 3m
+2020-05-12 07:51:52 Started printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-12 07:51:52 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-12 07:51:52 Error: Bad command: Content-Disposition: form-data
+2020-05-12 07:51:52 Error: Bad command: Content-Type: application/octet-stream
+2020-05-12 08:02:22 HTTP client 192.168.0.122 login succeeded
+2020-05-12 08:32:33 HTTP client 192.168.0.122 login succeeded
+2020-05-12 08:38:18 HTTP client 192.168.0.122 login succeeded
+2020-05-12 08:38:37 HTTP client 192.168.0.122 login succeeded
+2020-05-12 09:49:35 HTTP client 192.168.0.122 login succeeded
+2020-05-12 14:01:46 Error: Bad command: --------------------------b602a1e057277af5--
+2020-05-12 14:01:46 Finished printing file 0:/gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 10m
+2020-05-12 19:20:57 HTTP client 192.168.0.158 disconnected
+2020-05-12 19:21:27 HTTP client 192.168.0.158 login succeeded
+2020-05-12 19:25:42 Started printing file 0:gcodes/CPlaque1.gcode
+2020-05-12 20:19:05 Resume state saved
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:54 Started printing file 0:gcodes/CPlaque1.gcode
+power up + 01:44:41 Finished printing file 0:gcodes/CPlaque1.gcode, print time was 1h 44m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:23:05 Started printing file 1:/Manifolds1.gcode
+power up + 01:14:50 Resume state saved
+power up + 01:14:55 Printing paused at X79.5 Y27.8 Z1.8
+power up + 01:15:15 Cancelled printing file 1:/Manifolds1.gcode, print time was 0h 52m
+power up + 01:15:22 Started printing file 1:/Manifolds1.gcode
+power up + 02:38:21 Error: Heating fault on heater 1, temperature excursion exceeded 15.0°C
+power up + 02:38:21 Resume state saved
+power up + 02:38:21 Warning: Tool 0 was not driven because its heater temperatures were not high enough or it has a heater fault
+power up + 02:38:25 Warning: Tool 0 was not driven because its heater temperatures were not high enough or it has a heater fault
+power up + 02:38:26 Printing paused at X136.2 Y84.5 Z3.0
+power up + 02:48:21 Cancelled printing file 1:/Manifolds1.gcode, print time was 1h 23m
+power up + 02:48:21 Error: Shutting down due to un-cleared heater fault after 600 seconds
+power up + 02:48:22 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:53 Error: Heating fault on heater 1, temperature rising much more slowly than the expected 1.6°C/sec
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:17 Error: Heating fault on heater 1, temperature rising much more slowly than the expected 1.4°C/sec
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:57 Error: Heating fault on heater 1, temperature rising much more slowly than the expected 1.5°C/sec
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:28:09 HTTP client 192.168.0.122 login succeeded
+2020-05-15 08:52:53 Date and time set at power up + 00:28:09
+2020-05-15 09:01:04 HTTP client 192.168.0.122 login succeeded
+2020-05-15 09:01:32 Error: Heating fault on heater 1, temperature rising much more slowly than the expected 1.5°C/sec
+2020-05-15 09:06:07 HTTP client 192.168.0.122 login succeeded
+2020-05-15 09:08:05 HTTP client 192.168.0.122 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:07:40 HTTP client 192.168.0.122 login succeeded
+2020-05-15 09:19:33 Date and time set at power up + 00:07:40
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:04:18 Started printing file 1:/Manifolds1.gcode
+power up + 00:04:18 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:04:18 Cancelled printing file 1:/Manifolds1.gcode, print time was 0h 0m
+power up + 00:04:19 Error: G0/G1: insufficient axes homed
+power up + 00:04:31 Error: Z probe already triggered at start of probing move
+power up + 00:04:31 Error: Z probe already triggered at start of probing move
+power up + 00:04:31 Error: G0/G1: insufficient axes homed
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:05:00 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 00:05:00 Error: Bad command: --------------------------b602a1e057277af5
+power up + 00:05:00 Error: Bad command: Content-Disposition: form-data
+power up + 00:05:00 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:07:08 Resume state saved
+power up + 00:07:13 Printing paused at X71.2 Y77.8 Z0.3
+power up + 00:07:14 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 2m
+power up + 00:07:31 Started printing file 0:gcodes/Parts for Sale/2MMouse2.12.gcode
+power up + 00:07:31 Error: Bad command: --------------------------022240910644c283
+power up + 00:07:31 Error: Bad command: Content-Disposition: form-data
+power up + 00:07:31 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:07:36 Error: Pause the print before attempting to cancel it
+power up + 00:07:45 Resume state saved
+power up + 00:07:49 Error: Pause the print before attempting to cancel it
+power up + 00:07:49 Printing paused at X71.2 Y77.8 Z20.0
+power up + 00:07:52 Cancelled printing file 0:gcodes/Parts for Sale/2MMouse2.12.gcode, print time was 0h 0m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:08:41 77 points probed, min error -0.329, max error 0.057, mean -0.080, deviation 0.097
+Height map saved to file 0:/sys/heightmap.csv
+power up + 00:09:11 Started printing file 1:/Manifolds1.gcode
+power up + 01:06:41 Resume state saved
+power up + 01:06:46 Printing paused at X9.2 Y53.7 Z2.0
+power up + 01:07:08 Cancelled printing file 1:/Manifolds1.gcode, print time was 0h 57m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:38 Started printing file 1:/Manifolds1.gcode
+power up + 11:10:55 Finished printing file 1:/Manifolds1.gcode, print time was 11h 10m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:30 Error: Z probe already triggered at start of probing move
+power up + 00:00:30 Error: Z probe already triggered at start of probing move
+power up + 00:00:30 Error: G0/G1: insufficient axes homed
+power up + 00:00:42 Error: Z probe already triggered at start of probing move
+power up + 00:00:42 Error: Z probe already triggered at start of probing move
+power up + 00:00:42 Error: G0/G1: insufficient axes homed
+power up + 00:02:50 Started printing file 1:/Manifolds2.gcode
+power up + 00:03:57 Resume state saved
+power up + 00:04:01 Printing paused at X147.9 Y21.9 Z0.3
+power up + 00:04:04 Cancelled printing file 1:/Manifolds2.gcode, print time was 0h 1m
+power up + 00:08:15 Started printing file 1:/Manifolds2.gcode
+power up + 04:22:07 Resume state saved
+power up + 04:22:12 Printing paused at X15.4 Y94.4 Z8.1
+power up + 04:24:11 Cancelled printing file 1:/Manifolds2.gcode, print time was 4h 14m
+power up + 04:26:02 Started printing file 1:/Manifolds2.gcode
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:02:12 HTTP client 192.168.0.152 login succeeded
+2020-05-18 15:00:28 Date and time set at power up + 00:02:12
+2020-05-18 15:02:45 HTTP client 192.168.0.152 disconnected
+2020-05-18 16:58:47 Started printing file 1:/Manifolds2.gcode
+2020-05-18 18:22:41 Resume state saved
+2020-05-18 18:22:46 Printing paused at X131.4 Y38.6 Z2.2
+2020-05-18 18:23:05 Cancelled printing file 1:/Manifolds2.gcode, print time was 1h 24m
+2020-05-18 18:23:21 Started printing file 1:/Manifolds2.gcode
+2020-05-18 20:27:13 Resume state saved
+2020-05-18 20:27:17 Printing paused at X32.3 Y84.5 Z3.5
+2020-05-18 20:27:18 Cancelled printing file 1:/Manifolds2.gcode, print time was 2h 4m
+2020-05-18 20:29:18 Started printing file 1:/Manifolds2.gcode
+2020-05-18 20:34:27 Resume state saved
+2020-05-18 20:34:33 Printing paused at X71.8 Y71.0 Z0.3
+2020-05-18 20:34:36 Cancelled printing file 1:/Manifolds2.gcode, print time was 0h 5m
+2020-05-18 20:37:32 Started printing file 1:/Manifolds2.gcode
+2020-05-18 20:46:49 Resume state saved
+2020-05-18 20:46:54 Printing paused at X116.6 Y82.0 Z0.3
+2020-05-18 20:46:58 Cancelled printing file 1:/Manifolds2.gcode, print time was 0h 9m
+2020-05-18 20:47:57 Started printing file 1:/Manifolds2.gcode
+2020-05-18 21:02:12 Resume state saved
+2020-05-18 21:02:17 Printing paused at X187.5 Y64.0 Z0.3
+2020-05-18 21:02:19 Cancelled printing file 1:/Manifolds2.gcode, print time was 0h 14m
+2020-05-18 21:10:41 77 points probed, min error -0.433, max error 0.157, mean -0.059, deviation 0.133
+Height map saved to file 0:/sys/heightmap.csv
+2020-05-18 21:57:15 Started printing file 1:/Manifolds2.gcode
+2020-05-18 22:30:58 Resume state saved
+2020-05-18 22:31:03 Printing paused at X8.6 Y55.4 Z0.8
+2020-05-18 22:31:03 Cancelled printing file 1:/Manifolds2.gcode, print time was 0h 34m
+2020-05-18 22:36:10 Started printing file 1:/Manifolds2.gcode
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:11:37 HTTP client 192.168.0.150 login succeeded
+2020-05-19 13:15:44 Date and time set at power up + 00:11:37
+2020-05-19 13:20:45 HTTP client 192.168.0.150 login succeeded
+2020-05-19 13:20:46 HTTP client 192.168.0.150 login succeeded
+2020-05-19 13:23:19 HTTP client 192.168.0.150 login succeeded
+2020-05-19 13:23:44 HTTP client 192.168.0.150 login succeeded
+2020-05-19 13:24:06 HTTP client 192.168.0.150 disconnected
+2020-05-19 13:25:31 HTTP client 192.168.0.158 disconnected
+2020-05-19 13:26:21 HTTP client 192.168.0.158 login succeeded
+2020-05-19 13:32:28 Started printing file 0:/gcodes/Manifolds 3.gcode
+2020-05-19 14:00:48 HTTP client 192.168.0.122 login succeeded
+2020-05-19 14:06:25 HTTP client 192.168.0.122 login succeeded
+2020-05-19 14:10:49 HTTP client 192.168.0.122 login succeeded
+2020-05-19 14:16:31 HTTP client 192.168.0.122 login succeeded
+2020-05-19 14:16:57 HTTP client 192.168.0.122 login succeeded
+2020-05-19 14:25:58 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:10:57 HTTP client 192.168.0.122 login succeeded
+2020-05-19 15:34:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:34:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:35:17 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:35:25 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:35:40 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:35:43 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:36:10 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:36:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:37:23 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:37:25 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:37:26 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:37:27 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:37:44 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:38:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:38:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:39:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:41:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:41:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:41:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:41:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:41:33 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:43:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:43:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:43:06 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:45:00 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:45:01 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:45:01 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:45:03 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:46:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:46:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:46:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:46:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:07 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:07 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:07 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:07 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:08 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:43 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:48:45 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:40 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:50 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:55 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:49:56 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:50:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:50:19 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:50:23 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:50:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:50:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:50:32 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:51:06 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:20 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:20 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:27 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:52:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:54:32 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:54:32 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:54:33 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:54:34 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:56:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:56:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:56:55 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:59:15 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:59:16 HTTP client 192.168.0.158 login succeeded
+2020-05-19 15:59:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:02:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:04:17 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:04:17 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:04:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:04:21 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:06:29 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:06:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:06:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:06:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:08:23 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:08:24 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:08:24 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:10:52 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:10:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:10:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:10:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:12:58 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:12:59 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:13:03 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:13:03 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:13:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:14:56 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:14:56 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:14:57 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:16:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:16:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:16:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:18:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:18:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:18:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:18:29 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:20:36 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:20:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:20:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:22:57 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:23:01 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:23:02 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:24:49 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:24:49 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:24:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:24:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:24:58 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:27:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:27:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:27:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:29:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:29:10 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:29:12 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:29:33 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:29:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:30:24 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:31:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:31:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:31:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:31:10 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:31:17 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:31:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:33:35 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:33:37 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:33:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:33:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:35:57 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:37:35 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:37:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:37:42 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:37:43 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:37:43 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:39:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:39:30 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:39:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:41:22 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:41:23 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:41:23 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:43:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:43:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:43:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:50:07 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:50:35 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:50:44 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:51:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:51:15 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:51:34 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:51:34 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:51:42 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:51:57 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:03 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:21 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:27 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:29 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:52:32 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:54:43 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:54:45 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:57:35 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:57:36 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:57:44 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:57:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:57:55 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:57:59 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:58:00 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:59:58 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:59:58 HTTP client 192.168.0.158 login succeeded
+2020-05-19 16:59:59 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:02:06 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:02:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:02:16 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:02:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:05:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:06:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:06:52 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:07:12 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:07:25 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:07:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:08:07 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:08:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:08:12 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:08:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:08:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:11:50 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:11:50 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:11:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:17 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:21 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:22 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:34 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:36 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:44 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:15:54 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:16:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:18:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:18:05 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:18:06 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:18:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:18:15 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:21:56 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:21:57 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:21:57 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:22:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:22:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:22:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:22:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:23:19 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:23:19 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:23:34 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:24:14 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:24:41 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:24:41 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:24:42 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:24:44 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:24:44 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:26:52 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:26:52 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:28:36 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:28:37 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:28:55 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:29:23 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:29:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:32:16 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:32:41 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:32:50 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:33:24 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:33:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:34:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:34:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:34:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:35:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:37:46 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:39:19 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:39:27 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:39:37 Resume state saved
+2020-05-19 17:39:42 Printing paused at X66.4 Y71.6 Z15.8
+2020-05-19 17:39:59 Cancelled printing file 0:/gcodes/Manifolds 3.gcode, print time was 4h 7m
+2020-05-19 17:40:13 Started printing file 0:gcodes/Manifolds 3.gcode
+2020-05-19 17:40:17 Error: Z probe already triggered at start of probing move
+2020-05-19 17:40:17 Error: Z probe already triggered at start of probing move
+2020-05-19 17:40:17 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 0h 0m
+2020-05-19 17:40:17 Error: G0/G1: insufficient axes homed
+2020-05-19 17:41:04 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:42:20 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:42:20 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:42:21 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:42:21 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:43:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:43:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:43:40 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:43:40 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:08 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:23 Started printing file 0:gcodes/Manifolds 3.gcode
+2020-05-19 17:44:23 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+2020-05-19 17:44:23 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 0h 0m
+2020-05-19 17:44:23 Error: G0/G1: insufficient axes homed
+2020-05-19 17:44:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:43 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:44:54 Started printing file 0:gcodes/Manifolds 3.gcode
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:31 Started printing file 0:gcodes/Manifolds 3.gcode
+power up + 00:00:31 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:45:25 Date and time set at power up + 00:00:31
+2020-05-19 17:45:26 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:45:36 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:45:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:45:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:45:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:45:48 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:47:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:47:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:47:40 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:48:50 Resume state saved
+2020-05-19 17:48:55 Printing paused at X87.7 Y45.1 Z0.3
+2020-05-19 17:48:57 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 0h 3m
+2020-05-19 17:51:42 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:52:12 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:52:22 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:53:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:54:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 17:57:14 77 points probed, min error -0.475, max error 0.375, mean 0.038, deviation 0.191
+Height map saved to file 0:/sys/heightmap.csv
+2020-05-19 18:25:24 HTTP client 192.168.0.158 login succeeded
+2020-05-19 18:25:25 HTTP client 192.168.0.158 login succeeded
+2020-05-19 18:25:28 HTTP client 192.168.0.158 login succeeded
+2020-05-19 18:26:09 HTTP client 192.168.0.158 login succeeded
+2020-05-19 18:35:39 Started printing file 0:/gcodes/Manifolds 3.gcode
+2020-05-19 18:35:58 HTTP client 192.168.0.158 login succeeded
+2020-05-19 18:36:01 HTTP client 192.168.0.158 login succeeded
+2020-05-19 19:03:46 HTTP client 192.168.0.158 login succeeded
+2020-05-19 19:04:18 HTTP client 192.168.0.158 login succeeded
+2020-05-19 19:40:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:17:24 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:17:53 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:18:11 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:18:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:18:16 Resume state saved
+2020-05-19 20:18:20 Printing paused at X86.2 Y55.8 Z5.0
+2020-05-19 20:18:52 Cancelled printing file 0:/gcodes/Manifolds 3.gcode, print time was 1h 43m
+2020-05-19 20:18:56 Started printing file 0:gcodes/Manifolds 3.gcode
+2020-05-19 20:43:46 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:51:17 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:51:56 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:58:38 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:58:39 HTTP client 192.168.0.158 login succeeded
+2020-05-19 20:59:13 HTTP client 192.168.0.158 login succeeded
+2020-05-19 21:00:45 HTTP client 192.168.0.158 login succeeded
+2020-05-19 21:00:45 HTTP client 192.168.0.158 login succeeded
+2020-05-19 21:00:47 HTTP client 192.168.0.158 login succeeded
+2020-05-19 21:00:50 HTTP client 192.168.0.158 login succeeded
+2020-05-19 21:02:34 Resume state saved
+2020-05-19 21:02:39 Printing paused at X71.2 Y39.8 Z2.0
+2020-05-19 21:03:26 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 0h 44m
+2020-05-19 21:03:45 Started printing file 0:gcodes/Manifolds 3.gcode
+2020-05-19 21:05:49 HTTP client 192.168.0.158 login succeeded
+2020-05-19 21:46:51 HTTP client 192.168.0.158 login succeeded
+2020-05-19 22:49:50 HTTP client 192.168.0.158 login succeeded
+2020-05-19 22:51:05 Resume state saved
+2020-05-19 22:51:10 Printing paused at X145.5 Y121.4 Z5.3
+2020-05-19 22:51:24 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 1h 47m
+2020-05-19 22:52:28 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-19 22:52:28 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-19 22:52:29 Error: Bad command: Content-Disposition: form-data
+2020-05-19 22:52:29 Error: Bad command: Content-Type: application/octet-stream
+2020-05-20 03:00:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:00:50 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:01:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:02:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:02:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:02:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:04:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:04:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:04:13 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:05:43 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:05:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:05:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:05:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:07:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:08:43 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:11:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:12:42 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:14:04 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:16:11 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:17:33 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:19:50 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:21:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:22:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:23:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:24:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:24:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:24:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:24:04 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:25:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:25:45 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:25:45 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:27:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:27:36 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:27:36 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:27:36 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:28:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:30:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:31:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:33:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:34:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:35:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:37:11 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:38:33 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:40:09 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:40:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:40:11 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:41:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:41:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:41:31 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:41:31 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:42:55 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:42:56 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:44:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:44:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:44:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:45:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:47:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:48:34 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:50:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:50:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:50:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:51:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:53:11 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:54:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:56:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:56:09 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:56:09 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:58:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:58:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:59:33 HTTP client 192.168.0.158 login succeeded
+2020-05-20 03:59:34 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:00:56 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:02:20 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:02:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:03:43 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:05:05 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:06:37 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:06:39 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:06:40 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:08:01 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:08:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:10:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:11:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:13:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:14:24 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:14:24 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:15:46 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:17:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:17:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:19:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:20:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:21:47 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:21:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:21:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:21:55 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:23:42 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:25:04 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:26:31 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:27:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:28:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:28:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:28:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:28:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:29:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:30:15 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:31:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:31:13 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:31:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:32:01 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:32:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:33:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:34:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:35:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:35:13 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:36:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:37:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:38:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:38:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:40:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:41:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:43:13 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:44:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:45:57 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:47:24 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:48:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:48:39 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:49:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:49:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:51:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:51:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:52:27 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:52:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:53:24 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:53:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:53:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:53:27 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:53:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:54:31 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:54:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:55:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:56:45 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:56:46 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:57:09 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:57:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:58:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:58:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 04:59:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:00:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:00:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:00:47 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:01:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:01:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:01:39 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:01:39 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:02:16 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:02:22 Error: Bad command: --------------------------b602a1e057277af5--
+2020-05-20 05:02:22 Finished printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 10m
+2020-05-20 05:02:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:03:15 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:04:16 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:05:43 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:06:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:07:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:07:58 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:08:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:08:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:09:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:09:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:10:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:10:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:11:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:12:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:12:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:12:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:12:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:13:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:13:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:13:51 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:13:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:13:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:14:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:15:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:15:13 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:15:51 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:16:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:16:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:18:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:19:11 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:19:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:19:51 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:19:51 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:20:14 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:21:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:21:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:21:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:22:34 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:22:34 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:22:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:22:40 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:22:40 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:23:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:23:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:24:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:24:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:24:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:24:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:25:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:25:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:25:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:25:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:25:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:26:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:26:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:26:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:26:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:26:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:27:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:28:22 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:28:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:28:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:29:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:29:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:29:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:30:40 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:31:31 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:31:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:32:20 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:32:20 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:32:20 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:32:57 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:33:39 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:33:40 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:34:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:34:05 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:34:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:34:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:34:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:35:31 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:35:34 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:36:56 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:37:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:38:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:38:04 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:38:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:38:55 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:39:17 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:39:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:40:15 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:41:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:41:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:41:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:41:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:42:27 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:42:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:43:04 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:43:40 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:44:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:44:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:44:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:44:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:44:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:45:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:45:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:46:50 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:48:05 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:48:05 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:48:50 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:49:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:50:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:50:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:50:20 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:50:21 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:51:16 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:51:17 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:51:17 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:51:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:51:57 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:52:33 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:53:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:53:44 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:54:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:54:24 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:55:01 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:55:37 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:55:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:57:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:57:49 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:58:27 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:58:27 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:59:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:59:28 HTTP client 192.168.0.158 login succeeded
+2020-05-20 05:59:44 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:03:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:51:50 Date and time set at power up + 00:03:02
+2020-05-20 07:52:02 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:55:33 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:55:34 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:55:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:56:00 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:56:05 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:56:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:56:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:56:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 07:58:54 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:00:17 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:00:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:00:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:00:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:00:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:03:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:03:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:03:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:03:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:03:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:04:15 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:04:16 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:05:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:05:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:05:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:05:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:05:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:06:36 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-20 08:06:37 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-20 08:06:37 Error: Bad command: Content-Disposition: form-data
+2020-05-20 08:06:37 Error: Bad command: Content-Type: application/octet-stream
+2020-05-20 08:07:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:07:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:07:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:07:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:07:33 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:08:03 Resume state saved
+2020-05-20 08:08:10 Printing paused at X29.5 Y36.9 Z0.3
+2020-05-20 08:08:16 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 1m
+2020-05-20 08:08:51 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:08:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:08:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:08:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:08:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:09:26 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:10:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:10:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:10:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:10:38 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:10:39 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:12:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:12:30 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:12:32 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:15:16 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:16:17 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:16:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:16:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:16:18 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:16:19 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:17:16 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:17:22 77 points probed, min error -0.411, max error 0.220, mean 0.002, deviation 0.148
+Height map saved to file 0:/sys/heightmap.csv
+2020-05-20 08:17:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:17:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:17:23 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:17:42 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-20 08:17:42 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-20 08:17:42 Error: Bad command: Content-Disposition: form-data
+2020-05-20 08:17:42 Error: Bad command: Content-Type: application/octet-stream
+2020-05-20 08:18:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:18:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:18:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:18:10 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:18:38 Resume state saved
+2020-05-20 08:18:44 Printing paused at X48.5 Y113.5 Z0.3
+2020-05-20 08:18:45 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 1m
+2020-05-20 08:18:55 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-20 08:18:55 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-20 08:18:55 Error: Bad command: Content-Disposition: form-data
+2020-05-20 08:18:55 Error: Bad command: Content-Type: application/octet-stream
+2020-05-20 08:19:46 Resume state saved
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:06:23 HTTP client 192.168.0.122 login succeeded
+2020-05-20 08:26:16 Date and time set at power up + 00:06:23
+2020-05-20 08:31:08 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-05-20 08:31:08 Error: Bad command: --------------------------b602a1e057277af5
+2020-05-20 08:31:08 Error: Bad command: Content-Disposition: form-data
+2020-05-20 08:31:08 Error: Bad command: Content-Type: application/octet-stream
+2020-05-20 08:33:54 Resume state saved
+2020-05-20 08:33:59 Printing paused at X65.1 Y57.6 Z0.3
+2020-05-20 08:34:00 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 3m
+2020-05-20 08:36:12 HTTP client 192.168.0.122 login succeeded
+2020-05-20 08:39:24 HTTP client 192.168.0.122 login succeeded
+2020-05-20 08:39:34 HTTP client 192.168.0.122 login succeeded
+2020-05-20 08:40:12 HTTP client 192.168.0.122 login succeeded
+2020-05-20 08:40:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 08:40:34 HTTP client 192.168.0.122 login succeeded
+2020-05-20 08:56:35 HTTP client 192.168.0.122 login succeeded
+2020-05-20 09:02:57 HTTP client 192.168.0.158 login succeeded
+2020-05-20 09:03:35 HTTP client 192.168.0.158 login succeeded
+2020-05-20 09:15:41 HTTP client 192.168.0.136 login succeeded
+2020-05-20 09:20:53 HTTP client 192.168.0.158 login succeeded
+2020-05-20 09:21:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 10:24:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 11:27:09 HTTP client 192.168.0.158 login succeeded
+2020-05-20 12:04:25 HTTP client 192.168.0.158 login succeeded
+2020-05-20 12:05:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 12:30:07 HTTP client 192.168.0.158 login succeeded
+2020-05-20 13:33:08 HTTP client 192.168.0.158 login succeeded
+2020-05-20 14:36:06 HTTP client 192.168.0.158 login succeeded
+2020-05-20 15:05:36 HTTP client 192.168.0.158 login succeeded
+2020-05-20 15:06:15 HTTP client 192.168.0.158 login succeeded
+2020-05-20 15:38:55 HTTP client 192.168.0.158 login succeeded
+2020-05-20 15:39:12 HTTP client 192.168.0.158 login succeeded
+2020-05-20 16:42:05 HTTP client 192.168.0.158 login succeeded
+2020-05-20 17:45:01 HTTP client 192.168.0.158 login succeeded
+2020-05-20 18:06:50 HTTP client 192.168.0.158 login succeeded
+2020-05-20 18:07:29 HTTP client 192.168.0.158 login succeeded
+2020-05-20 18:47:48 HTTP client 192.168.0.158 login succeeded
+2020-05-20 18:48:03 HTTP client 192.168.0.158 login succeeded
+2020-05-20 19:50:59 HTTP client 192.168.0.158 login succeeded
+2020-05-20 20:53:52 HTTP client 192.168.0.158 login succeeded
+2020-05-20 20:54:09 HTTP client 192.168.0.158 login succeeded
+2020-05-20 21:08:04 HTTP client 192.168.0.158 login succeeded
+2020-05-20 21:08:42 HTTP client 192.168.0.158 login succeeded
+2020-05-20 21:57:02 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:00:14 HTTP client 192.168.0.158 login succeeded
+2020-05-22 15:55:55 Date and time set at power up + 00:00:14
+2020-05-22 15:55:59 HTTP client 192.168.0.158 login succeeded
+2020-05-22 15:56:17 HTTP client 192.168.0.158 login succeeded
+2020-05-22 15:56:18 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:04:09 Started printing file 0:gcodes/Manifolds 3.gcode
+2020-05-22 16:04:09 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+2020-05-22 16:04:09 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 0h 0m
+2020-05-22 16:04:09 Error: G0/G1: insufficient axes homed
+2020-05-22 16:04:52 Started printing file 0:gcodes/Manifolds 3.gcode
+2020-05-22 16:34:26 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:39:10 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:39:15 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:39:16 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:39:32 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:40:03 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:40:13 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:40:15 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:40:17 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:40:18 HTTP client 192.168.0.158 login succeeded
+2020-05-22 16:40:19 HTTP client 192.168.0.158 login succeeded
+2020-05-22 17:37:32 HTTP client 192.168.0.158 login succeeded
+2020-05-22 18:26:45 HTTP client 192.168.0.158 login succeeded
+2020-05-22 18:27:22 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:21 HTTP client 192.168.0.158 login succeeded
+2020-05-22 18:34:24 Date and time set at power up + 00:00:21
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:14:15 Started printing file 0:gcodes/Manifolds 3.gcode
+power up + 00:14:15 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:14:15 Cancelled printing file 0:gcodes/Manifolds 3.gcode, print time was 0h 0m
+power up + 00:14:15 Error: G0/G1: insufficient axes homed
+power up + 00:14:50 Started printing file 0:gcodes/Manifolds 3.gcode
+power up + 11:02:02 Finished printing file 0:gcodes/Manifolds 3.gcode, print time was 10h 47m
+power up + 22:51:32 HTTP client 192.168.0.158 login succeeded
+2020-05-28 12:06:07 Date and time set at power up + 22:51:32
+2020-05-28 12:07:51 HTTP client 192.168.0.158 login succeeded
+2020-05-28 12:08:29 HTTP client 192.168.0.158 login succeeded
+2020-05-28 12:08:29 HTTP client 192.168.0.158 disconnected
+2020-05-28 12:08:35 HTTP client 192.168.0.158 login succeeded
+2020-05-28 12:18:40 HTTP client 192.168.0.158 disconnected
+2020-05-28 12:20:43 Started printing file 0:/gcodes/Header1.gcode
+2020-05-28 12:20:43 Error: Bad command: --------------------------43661575c6ec6031
+2020-05-28 12:20:43 Error: Bad command: Content-Disposition: form-data
+2020-05-28 12:20:43 Error: Bad command: Content-Type: application/octet-stream
+2020-05-28 12:26:26 HTTP client 192.168.0.158 login succeeded
+2020-05-28 12:26:43 HTTP client 192.168.0.158 login succeeded
+2020-05-28 13:29:10 HTTP client 192.168.0.158 login succeeded
+2020-05-28 13:29:28 HTTP client 192.168.0.158 login succeeded
+2020-05-28 14:12:02 HTTP client 192.168.0.150 login succeeded
+2020-05-28 14:12:59 HTTP client 192.168.0.150 login succeeded
+2020-05-28 14:13:17 HTTP client 192.168.0.150 login succeeded
+2020-05-28 14:14:40 HTTP client 192.168.0.150 login succeeded
+2020-05-28 14:14:59 HTTP client 192.168.0.150 login succeeded
+2020-05-28 14:17:50 HTTP client 192.168.0.150 disconnected
+2020-05-28 14:23:54 HTTP client 192.168.0.158 login succeeded
+2020-05-28 14:24:34 HTTP client 192.168.0.158 login succeeded
+2020-05-28 14:32:21 HTTP client 192.168.0.158 login succeeded
+2020-05-28 14:32:39 HTTP client 192.168.0.158 login succeeded
+2020-05-28 15:35:26 HTTP client 192.168.0.158 login succeeded
+2020-05-28 15:35:47 HTTP client 192.168.0.158 login succeeded
+2020-05-28 16:38:36 HTTP client 192.168.0.158 login succeeded
+2020-05-28 16:50:41 HTTP client 192.168.0.158 login succeeded
+2020-05-28 16:50:41 HTTP client 192.168.0.158 login succeeded
+2020-05-28 16:50:44 HTTP client 192.168.0.158 login succeeded
+2020-05-28 17:24:57 HTTP client 192.168.0.158 login succeeded
+2020-05-28 17:25:37 HTTP client 192.168.0.158 login succeeded
+2020-05-28 17:41:35 HTTP client 192.168.0.158 login succeeded
+2020-05-28 18:44:24 HTTP client 192.168.0.158 login succeeded
+2020-05-28 18:44:41 HTTP client 192.168.0.158 login succeeded
+2020-05-28 19:47:19 HTTP client 192.168.0.158 login succeeded
+2020-05-28 19:47:37 HTTP client 192.168.0.158 login succeeded
+2020-05-28 20:26:23 HTTP client 192.168.0.158 login succeeded
+2020-05-28 20:27:01 HTTP client 192.168.0.158 login succeeded
+2020-05-28 20:50:32 HTTP client 192.168.0.158 login succeeded
+2020-05-28 21:53:31 HTTP client 192.168.0.158 login succeeded
+2020-05-28 22:56:21 HTTP client 192.168.0.158 login succeeded
+2020-05-28 22:56:40 HTTP client 192.168.0.158 login succeeded
+2020-05-29 00:02:22 Error: Bad command: --------------------------43661575c6ec6031--
+2020-05-29 00:02:22 Finished printing file 0:/gcodes/Header1.gcode, print time was 11h 42m
+2020-05-29 00:10:01 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:00:07 HTTP client 192.168.0.158 login succeeded
+2020-06-02 09:27:51 Date and time set at power up + 00:00:07
+2020-06-02 09:27:52 HTTP client 192.168.0.158 login succeeded
+2020-06-02 09:27:57 HTTP client 192.168.0.158 login succeeded
+2020-06-02 10:14:52 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-06-02 10:14:53 Error: Bad command: --------------------------b602a1e057277af5
+2020-06-02 10:14:53 Error: Bad command: Content-Disposition: form-data
+2020-06-02 10:14:53 Error: Bad command: Content-Type: application/octet-stream
+2020-06-02 10:14:53 Warning: G29: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+2020-06-02 10:14:53 Cancelled printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 0h 0m
+2020-06-02 10:14:53 Error: G0/G1: insufficient axes homed
+2020-06-02 10:15:29 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+2020-06-02 10:15:29 Error: Bad command: --------------------------b602a1e057277af5
+2020-06-02 10:15:29 Error: Bad command: Content-Disposition: form-data
+2020-06-02 10:15:29 Error: Bad command: Content-Type: application/octet-stream
+2020-06-02 11:31:44 HTTP client 192.168.0.158 login succeeded
+2020-06-02 12:12:26 HTTP client 192.168.0.158 login succeeded
+2020-06-02 12:13:04 HTTP client 192.168.0.158 login succeeded
+2020-06-02 12:34:30 HTTP client 192.168.0.158 login succeeded
+2020-06-02 12:34:46 HTTP client 192.168.0.158 login succeeded
+2020-06-02 13:37:45 HTTP client 192.168.0.158 login succeeded
+2020-06-02 14:40:43 HTTP client 192.168.0.158 login succeeded
+2020-06-02 15:13:40 HTTP client 192.168.0.158 login succeeded
+2020-06-02 15:14:20 HTTP client 192.168.0.158 login succeeded
+2020-06-02 16:25:47 Error: Bad command: --------------------------b602a1e057277af5--
+2020-06-02 16:25:47 Finished printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 10m
+2020-06-02 16:49:47 HTTP client 192.168.0.158 login succeeded
+2020-06-02 16:50:48 HTTP client 192.168.0.158 login succeeded
+2020-06-02 16:50:58 HTTP client 192.168.0.158 login succeeded
+2020-06-02 16:56:51 HTTP client 192.168.0.158 login succeeded
+2020-06-02 16:56:53 HTTP client 192.168.0.158 login succeeded
+2020-06-02 16:56:56 HTTP client 192.168.0.158 login succeeded
+2020-06-02 17:49:44 HTTP client 192.168.0.158 login succeeded
+2020-06-02 18:52:41 HTTP client 192.168.0.158 login succeeded
+2020-06-02 19:50:24 HTTP client 192.168.0.158 login succeeded
+2020-06-02 19:51:02 HTTP client 192.168.0.158 login succeeded
+2020-06-02 19:55:30 HTTP client 192.168.0.158 login succeeded
+2020-06-02 20:58:36 HTTP client 192.168.0.158 login succeeded
+2020-06-02 22:01:20 HTTP client 192.168.0.158 login succeeded
+2020-06-02 22:01:37 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:03:31 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 00:03:31 Error: Bad command: --------------------------b602a1e057277af5
+power up + 00:03:31 Error: Bad command: Content-Disposition: form-data
+power up + 00:03:31 Error: Bad command: Content-Type: application/octet-stream
+power up + 06:13:33 Error: Bad command: --------------------------b602a1e057277af5--
+power up + 06:13:33 Finished printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 10m
+power up + 24:28:26 Started printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode
+power up + 24:28:26 Error: Bad command: --------------------------b602a1e057277af5
+power up + 24:28:26 Error: Bad command: Content-Disposition: form-data
+power up + 24:28:26 Error: Bad command: Content-Type: application/octet-stream
+power up + 30:39:27 Error: Bad command: --------------------------b602a1e057277af5--
+power up + 30:39:27 Finished printing file 0:gcodes/Parts for Sale/4MMouse2.12.gcode, print time was 6h 11m
+power up + 37:29:29 Started printing file 0:gcodes/Parts for Sale/2MMouse2.12.gcode
+power up + 37:29:29 Error: Bad command: --------------------------022240910644c283
+power up + 37:29:29 Error: Bad command: Content-Disposition: form-data
+power up + 37:29:29 Error: Bad command: Content-Type: application/octet-stream
+power up + 37:29:47 Error: Pause the print before attempting to cancel it
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:04:15 HTTP client 192.168.0.158 disconnected
+power up + 00:04:37 HTTP client 192.168.0.158 login succeeded
+2020-07-04 17:37:28 Date and time set at power up + 00:04:37
+2020-07-04 17:41:01 Started printing file 0:gcodes/Valves2.gcode
+2020-07-04 17:48:56 Finished printing file 0:gcodes/Valves2.gcode, print time was 0h 8m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M307: heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C.
+
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 02:47:28 HTTP client 192.168.0.156 login succeeded
+2020-10-05 20:20:01 Date and time set at power up + 02:47:28
+2020-10-05 20:20:15 HTTP client 192.168.0.156 disconnected
+2020-10-05 20:23:14 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:06 Network running, IP address = 192.168.0.124
+power up + 00:00:08 HTTP client 192.168.0.156 login succeeded
+2020-10-05 20:23:26 Date and time set at power up + 00:00:08
+2020-10-05 20:23:27 HTTP client 192.168.0.156 login succeeded
+2020-10-05 20:24:08 HTTP client 192.168.0.156 disconnected
+2020-10-05 20:24:13 HTTP client 192.168.0.156 login succeeded
+2020-10-05 20:26:03 HTTP client 192.168.0.156 disconnected
+2020-10-05 20:29:21 Started printing file 0:gcodes/TestMMouse1.gcode
+2020-10-05 20:29:21 Error: Bad command: --------------------------9d4030951df49771
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:29 Network running, IP address = 192.168.0.124
+power up + 00:00:30 HTTP client 192.168.0.156 login succeeded
+2020-10-05 20:30:01 Date and time set at power up + 00:00:30
+2020-10-05 20:30:04 Started printing file 0:gcodes/TestMMouse1.gcode
+2020-10-05 20:30:04 Error: Bad command: --------------------------9d4030951df49771
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:08 HTTP client 192.168.0.156 login succeeded
+2020-10-05 20:30:26 Date and time set at power up + 00:00:08
+2020-10-05 20:31:06 Started printing file 0:gcodes/TestMMouse1.gcode
+2020-10-05 20:31:06 Error: Bad command: --------------------------9d4030951df49771
+2020-10-05 20:31:06 Error: Bad command: Content-Disposition: form-data
+2020-10-05 20:31:06 Error: Bad command: Content-Type: application/octet-stream
+2020-10-05 20:31:07 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+2020-10-05 20:31:07 Cancelled printing file 0:gcodes/TestMMouse1.gcode, print time was 0h 0m
+2020-10-05 20:31:07 Error: G0/G1: insufficient axes homed
+2020-10-05 20:31:42 Started printing file 0:gcodes/TestMMouse1.gcode
+2020-10-05 20:31:42 Error: Bad command: --------------------------9d4030951df49771
+2020-10-05 20:31:42 Error: Bad command: Content-Disposition: form-data
+2020-10-05 20:31:42 Error: Bad command: Content-Type: application/octet-stream
+2020-10-05 20:44:03 Resume state saved
+2020-10-05 20:44:07 Printing paused at X95.4 Y72.5 Z5.2
+2020-10-05 20:44:19 Cancelled printing file 0:gcodes/TestMMouse1.gcode, print time was 0h 12m
+2020-10-05 20:44:24 Started printing file 0:gcodes/TestMMouse1.gcode
+2020-10-05 20:44:24 Error: Bad command: --------------------------9d4030951df49771
+2020-10-05 20:44:24 Error: Bad command: Content-Disposition: form-data
+2020-10-05 20:44:24 Error: Bad command: Content-Type: application/octet-stream
+2020-10-05 20:58:06 Error: Bad command: --------------------------9d4030951df49771--
+2020-10-05 20:58:06 Finished printing file 0:gcodes/TestMMouse1.gcode, print time was 0h 13m
+2020-10-05 20:59:20 HTTP client 192.168.0.156 login succeeded
+2020-10-05 21:05:50 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 03:58:10 HTTP client 192.168.0.156 disconnected
+power up + 03:58:33 HTTP client 192.168.0.156 login succeeded
+2020-10-06 12:04:29 Date and time set at power up + 03:58:33
+2020-10-06 12:05:32 HTTP client 192.168.0.156 disconnected
+2020-10-06 12:05:46 Started printing file 0:/gcodes/TMM1.gcode
+2020-10-06 12:05:46 Error: Bad command: --------------------------e08efbb62567ea86
+2020-10-06 12:05:46 Error: Bad command: Content-Disposition: form-data
+2020-10-06 12:05:46 Error: Bad command: Content-Type: application/octet-stream
+2020-10-06 12:53:17 Error: Bad command: --------------------------e08efbb62567ea86--
+2020-10-06 12:53:17 Finished printing file 0:/gcodes/TMM1.gcode, print time was 0h 47m
+2020-10-06 14:03:49 HTTP client 192.168.0.156 login succeeded
+2020-10-06 14:12:08 HTTP client 192.168.0.156 login succeeded
+2020-10-06 14:12:09 HTTP client 192.168.0.156 login succeeded
+2020-10-06 14:44:41 HTTP client 192.168.0.156 disconnected
+2020-10-06 14:45:04 Started printing file 0:/gcodes/TMM2.gcode
+2020-10-06 14:45:04 Error: Bad command: --------------------------b0840ff2e260643f
+2020-10-06 14:45:04 Error: Bad command: Content-Disposition: form-data
+2020-10-06 14:45:04 Error: Bad command: Content-Type: application/octet-stream
+2020-10-06 14:45:30 HTTP client 192.168.0.156 disconnected
+2020-10-06 15:33:17 Error: Bad command: --------------------------b0840ff2e260643f--
+2020-10-06 15:33:17 Finished printing file 0:/gcodes/TMM2.gcode, print time was 0h 48m
+2020-10-06 17:31:35 HTTP client 192.168.0.156 disconnected
+2020-10-06 17:31:47 HTTP client 192.168.0.156 login succeeded
+2020-10-06 17:32:50 HTTP client 192.168.0.156 disconnected
+2020-10-06 17:33:00 Started printing file 0:/gcodes/M12A1.gcode
+2020-10-06 17:33:00 Error: Bad command: --------------------------15814eb77b0765c6
+2020-10-06 17:33:00 Error: Bad command: Content-Disposition: form-data
+2020-10-06 17:33:00 Error: Bad command: Content-Type: application/octet-stream
+2020-10-06 17:33:02 HTTP client 192.168.0.156 disconnected
+2020-10-06 21:46:08 Error: Bad command: --------------------------15814eb77b0765c6--
+2020-10-06 21:46:08 Finished printing file 0:/gcodes/M12A1.gcode, print time was 4h 13m
+2020-10-06 22:02:59 HTTP client 192.168.0.150 login succeeded
+2020-10-06 22:03:15 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:32:04 HTTP client 192.168.0.156 login succeeded
+2020-10-07 10:19:59 Date and time set at power up + 00:32:04
+2020-10-07 10:22:59 HTTP client 192.168.0.156 disconnected
+2020-10-07 10:23:14 Started printing file 0:/gcodes/4MM1072020.gcode
+2020-10-07 10:23:14 Error: Bad command: --------------------------2ece186ed19c2dda
+2020-10-07 10:23:14 Error: Bad command: Content-Disposition: form-data
+2020-10-07 10:23:14 Error: Bad command: Content-Type: application/octet-stream
+2020-10-07 10:37:11 HTTP client 192.168.0.156 login succeeded
+2020-10-07 10:41:15 HTTP client 192.168.0.156 login succeeded
+2020-10-07 10:42:19 HTTP client 192.168.0.156 login succeeded
+2020-10-07 11:40:09 HTTP client 192.168.0.156 login succeeded
+2020-10-07 12:53:32 HTTP client 192.168.0.156 login succeeded
+2020-10-07 12:53:55 HTTP client 192.168.0.156 login succeeded
+2020-10-07 12:54:36 HTTP client 192.168.0.156 login succeeded
+2020-10-07 13:42:29 HTTP client 192.168.0.156 login succeeded
+2020-10-07 13:42:51 HTTP client 192.168.0.156 login succeeded
+2020-10-07 13:43:07 HTTP client 192.168.0.156 login succeeded
+2020-10-07 13:43:31 HTTP client 192.168.0.156 login succeeded
+2020-10-07 13:45:59 HTTP client 192.168.0.156 login succeeded
+2020-10-07 13:46:08 HTTP client 192.168.0.156 login succeeded
+2020-10-07 14:48:58 HTTP client 192.168.0.156 login succeeded
+2020-10-07 14:49:07 HTTP client 192.168.0.156 login succeeded
+2020-10-07 15:52:06 HTTP client 192.168.0.156 login succeeded
+2020-10-07 16:31:46 Error: Bad command: --------------------------2ece186ed19c2dda--
+2020-10-07 16:31:46 Finished printing file 0:/gcodes/4MM1072020.gcode, print time was 6h 8m
+2020-10-07 16:43:43 HTTP client 192.168.0.156 login succeeded
+2020-10-07 16:44:23 HTTP client 192.168.0.156 login succeeded
+2020-10-07 16:44:47 HTTP client 192.168.0.156 login succeeded
+2020-10-07 16:55:06 HTTP client 192.168.0.156 login succeeded
+2020-10-07 17:04:31 Started printing file 0:gcodes/4MM1072020.gcode
+2020-10-07 17:04:31 Error: Bad command: --------------------------2ece186ed19c2dda
+2020-10-07 17:04:31 Error: Bad command: Content-Disposition: form-data
+2020-10-07 17:04:31 Error: Bad command: Content-Type: application/octet-stream
+2020-10-07 17:58:04 HTTP client 192.168.0.156 login succeeded
+2020-10-07 19:01:03 HTTP client 192.168.0.156 login succeeded
+2020-10-07 19:44:58 HTTP client 192.168.0.156 login succeeded
+2020-10-07 19:45:38 HTTP client 192.168.0.156 login succeeded
+2020-10-07 19:45:46 HTTP client 192.168.0.156 login succeeded
+2020-10-07 19:46:02 HTTP client 192.168.0.156 login succeeded
+2020-10-07 20:04:03 HTTP client 192.168.0.156 login succeeded
+2020-10-07 22:10:02 HTTP client 192.168.0.156 login succeeded
+2020-10-07 22:46:18 HTTP client 192.168.0.156 login succeeded
+2020-10-07 22:47:01 HTTP client 192.168.0.156 login succeeded
+2020-10-07 22:47:17 HTTP client 192.168.0.156 login succeeded
+2020-10-08 00:00:49 Error: Bad command: --------------------------2ece186ed19c2dda--
+2020-10-08 00:00:49 Finished printing file 0:gcodes/4MM1072020.gcode, print time was 6h 56m
+2020-10-08 01:18:56 HTTP client 192.168.0.156 login succeeded
+2020-10-08 01:47:31 HTTP client 192.168.0.156 login succeeded
+2020-10-08 01:48:29 HTTP client 192.168.0.156 login succeeded
+2020-10-08 02:21:58 HTTP client 192.168.0.156 login succeeded
+2020-10-08 03:24:57 HTTP client 192.168.0.156 login succeeded
+2020-10-08 03:24:59 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:27:52 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:28:11 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:48:46 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:49:31 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:49:39 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:49:50 HTTP client 192.168.0.156 login succeeded
+2020-10-08 04:49:51 HTTP client 192.168.0.156 login succeeded
+2020-10-08 05:31:45 HTTP client 192.168.0.156 login succeeded
+2020-10-08 05:31:47 HTTP client 192.168.0.156 login succeeded
+2020-10-08 06:33:55 HTTP client 192.168.0.156 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:07 Network running, IP address = 192.168.0.124
+power up + 00:04:12 Started printing file 0:gcodes/4MM1072020.gcode
+power up + 00:04:12 Error: Bad command: --------------------------2ece186ed19c2dda
+power up + 00:04:12 Error: Bad command: Content-Disposition: form-data
+power up + 00:04:12 Error: Bad command: Content-Type: application/octet-stream
+power up + 06:12:43 Error: Bad command: --------------------------2ece186ed19c2dda--
+power up + 06:12:43 Finished printing file 0:gcodes/4MM1072020.gcode, print time was 6h 8m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:15:35 Started printing file 0:gcodes/M12A1.gcode
+power up + 00:15:35 Error: Bad command: --------------------------15814eb77b0765c6
+power up + 00:15:35 Error: Bad command: Content-Disposition: form-data
+power up + 00:15:35 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:15:35 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:15:35 Cancelled printing file 0:gcodes/M12A1.gcode, print time was 0h 0m
+power up + 00:15:36 Error: G0/G1: insufficient axes homed
+power up + 00:15:57 Started printing file 0:gcodes/M12A1.gcode
+power up + 00:15:57 Error: Bad command: --------------------------15814eb77b0765c6
+power up + 00:15:57 Error: Bad command: Content-Disposition: form-data
+power up + 00:15:57 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:33:25 Network running, IP address = 192.168.0.124
+power up + 05:03:10 Error: Bad command: --------------------------15814eb77b0765c6--
+power up + 05:03:10 Finished printing file 0:gcodes/M12A1.gcode, print time was 4h 47m
+power up + 09:57:24 Started printing file 0:gcodes/M12A1.gcode
+power up + 09:57:24 Error: Bad command: --------------------------15814eb77b0765c6
+power up + 09:57:24 Error: Bad command: Content-Disposition: form-data
+power up + 09:57:24 Error: Bad command: Content-Type: application/octet-stream
+power up + 09:57:38 Error: M0: Pause the print before attempting to cancel it
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:37 Started printing file 0:gcodes/M12A1.gcode
+power up + 00:00:37 Error: Bad command: --------------------------15814eb77b0765c6
+power up + 00:00:37 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:37 Error: Bad command: Content-Type: application/octet-stream
+power up + 04:14:43 Error: Bad command: --------------------------15814eb77b0765c6--
+power up + 04:14:43 Finished printing file 0:gcodes/M12A1.gcode, print time was 4h 14m
+power up + 06:10:11 Started printing file 0:gcodes/M12A1.gcode
+power up + 06:10:11 Error: Bad command: --------------------------15814eb77b0765c6
+power up + 06:10:11 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:31 Started printing file 0:gcodes/M12A1.gcode
+power up + 00:00:31 Error: Bad command: --------------------------15814eb77b0765c6
+power up + 00:00:31 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:31 Error: Bad command: Content-Type: application/octet-stream
+power up + 04:14:43 Error: Bad command: --------------------------15814eb77b0765c6--
+power up + 04:14:43 Finished printing file 0:gcodes/M12A1.gcode, print time was 4h 14m
+power up + 05:00:50 Started printing file 0:gcodes/M12A1.gcode
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:31 Network running, IP address = 192.168.0.124
+power up + 00:45:06 HTTP client 192.168.0.156 disconnected
+power up + 00:45:35 HTTP client 192.168.0.156 login succeeded
+2020-11-02 17:24:26 Date and time set at power up + 00:45:35
+2020-11-02 17:25:53 Started printing file 0:/gcodes/M12S1.gcode
+2020-11-02 17:36:54 HTTP client 192.168.0.156 login succeeded
+2020-11-02 17:37:06 HTTP client 192.168.0.156 login succeeded
+2020-11-02 17:37:23 HTTP client 192.168.0.156 login succeeded
+2020-11-02 17:37:28 HTTP client 192.168.0.156 login succeeded
+2020-11-02 20:00:01 Resume state saved
+2020-11-02 20:00:06 Printing paused at X99.5 Y43.9 Z48.8
+2020-11-02 20:00:09 Cancelled printing file 0:/gcodes/M12S1.gcode, print time was 2h 34m
+2020-11-02 20:03:52 HTTP client 192.168.0.156 login succeeded
+2020-11-02 20:05:25 Started printing file 0:gcodes/M12S1.gcode
+2020-11-02 21:01:44 Resume state saved
+2020-11-02 21:01:48 Printing paused at X131.5 Y70.7 Z13.8
+2020-11-02 21:01:49 Cancelled printing file 0:gcodes/M12S1.gcode, print time was 0h 56m
+2020-11-02 21:07:34 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:06 Network running, IP address = 192.168.0.124
+power up + 00:04:00 Started printing file 0:gcodes/M12S1.gcode
+power up + 03:30:50 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 26m
+power up + 11:24:08 Started printing file 0:gcodes/M12S1.gcode
+power up + 14:56:21 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 32m
+power up + 21:10:06 Started printing file 0:gcodes/M12S1.gcode
+power up + 24:42:20 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 32m
+power up + 35:00:19 Started printing file 0:gcodes/M12S1.gcode
+power up + 38:32:34 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 32m
+power up + 48:59:05 Started printing file 0:gcodes/M12S1.gcode
+power up + 52:31:20 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 32m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:25 Network running, IP address = 192.168.0.124
+power up + 00:00:44 Started printing file 0:gcodes/M12S1.gcode
+power up + 03:06:55 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 6m
+power up + 03:07:43 Started printing file 0:gcodes/M12S1.gcode
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:00:41 Started printing file 0:gcodes/M12S1.gcode
+power up + 03:05:38 Finished printing file 0:gcodes/M12S1.gcode, print time was 3h 4m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:09:10 HTTP client 192.168.0.156 login succeeded
+2020-11-17 19:34:43 Date and time set at power up + 00:09:10
+2020-11-17 19:47:58 HTTP client 192.168.0.156 disconnected
+2020-11-17 19:48:52 HTTP client 192.168.0.156 disconnected
+2020-11-17 19:53:02 77 points probed, min error -0.718, max error 0.665, mean 0.054, deviation 0.347
+Height map saved to file 0:/sys/heightmap.csv
+2020-11-17 19:53:23 HTTP client 192.168.0.135 login succeeded
+2020-11-17 19:53:47 Started printing file 0:gcodes/12M12TBase11172020.gcode
+2020-11-17 19:53:48 Error: Bad command: --------------------------bf0de6e11b7d0dac
+2020-11-17 19:53:48 Error: Bad command: Content-Disposition: form-data
+2020-11-17 19:53:48 Error: Bad command: Content-Type: application/octet-stream
+2020-11-17 19:55:46 Resume state saved
+2020-11-17 19:55:51 Printing paused at X32.4 Y46.3 Z0.4
+2020-11-17 19:55:56 Cancelled printing file 0:gcodes/12M12TBase11172020.gcode, print time was 0h 1m
+2020-11-17 19:56:12 Started printing file 0:gcodes/M12TBase11172020.gcode
+2020-11-17 19:56:12 Error: Bad command: --------------------------d59824a364fec7b6
+2020-11-17 19:56:12 Error: Bad command: Content-Disposition: form-data
+2020-11-17 19:56:12 Error: Bad command: Content-Type: application/octet-stream
+2020-11-17 21:56:04 Error: Bad command: --------------------------d59824a364fec7b6--
+2020-11-17 21:56:04 Finished printing file 0:gcodes/M12TBase11172020.gcode, print time was 1h 59m
+2020-11-18 06:40:58 Started printing file 0:gcodes/12M12TBase11172020.gcode
+2020-11-18 06:40:58 Error: Bad command: --------------------------bf0de6e11b7d0dac
+2020-11-18 06:40:58 Error: Bad command: Content-Disposition: form-data
+2020-11-18 06:40:58 Error: Bad command: Content-Type: application/octet-stream
+2020-11-19 03:56:48 Error: Bad command: --------------------------bf0de6e11b7d0dac--
+2020-11-19 03:56:48 Finished printing file 0:gcodes/12M12TBase11172020.gcode, print time was 21h 15m
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 448C
+power up + 00:00:05 Network running, IP address = 192.168.0.124
+power up + 00:15:50 77 points probed, min error -0.213, max error 0.159, mean -0.020, deviation 0.075
+Height map saved to file 0:/sys/heightmap.csv
+power up + 00:16:35 HTTP client 192.168.0.135 login succeeded
+2020-11-19 07:27:55 Started printing file 0:/gcodes/12M12TBase11172020.gcode
+2020-11-19 07:27:55 Error: Bad command: --------------------------bf0de6e11b7d0dac
+2020-11-19 07:27:55 Error: Bad command: Content-Disposition: form-data
+2020-11-19 07:27:55 Error: Bad command: Content-Type: application/octet-stream
+2020-11-19 07:34:10 Resume state saved
+2020-11-19 07:34:16 Printing paused at X58.7 Y78.1 Z0.4
+2020-11-19 07:34:18 Cancelled printing file 0:/gcodes/12M12TBase11172020.gcode, print time was 0h 6m
+2020-11-19 07:35:31 Started printing file 0:gcodes/12M12TBase11172020.gcode
+2020-11-19 07:35:31 Error: Bad command: --------------------------bf0de6e11b7d0dac
+2020-11-19 07:35:31 Error: Bad command: Content-Disposition: form-data
+2020-11-19 07:35:31 Error: Bad command: Content-Type: application/octet-stream
+2020-11-19 08:27:29 HTTP client 192.168.0.135 login succeeded
+2020-11-19 09:28:56 HTTP client 192.168.0.135 login succeeded
+2020-11-20 04:49:19 Error: Bad command: --------------------------bf0de6e11b7d0dac--
+2020-11-20 04:49:19 Finished printing file 0:gcodes/12M12TBase11172020.gcode, print time was 21h 13m
+2020-11-20 06:39:25 Started printing file 0:gcodes/12M12TBase11172020.gcode
+2020-11-20 06:39:25 Error: Bad command: --------------------------bf0de6e11b7d0dac
+2020-11-20 06:39:25 Error: Bad command: Content-Disposition: form-data
+2020-11-20 06:39:25 Error: Bad command: Content-Type: application/octet-stream
+2020-11-20 06:49:36 Resume state saved
+2020-11-20 06:49:41 Printing paused at X57.8 Y130.8 Z0.4
+2020-11-20 06:49:48 Cancelled printing file 0:gcodes/12M12TBase11172020.gcode, print time was 0h 10m
+2020-11-20 06:50:16 Started printing file 0:gcodes/12M12TBase11172020.gcode
+2020-11-20 06:50:16 Error: Bad command: --------------------------bf0de6e11b7d0dac
+2020-11-20 06:50:16 Error: Bad command: Content-Disposition: form-data
+2020-11-20 06:50:16 Error: Bad command: Content-Type: application/octet-stream
+2020-11-21 04:04:04 Error: Bad command: --------------------------bf0de6e11b7d0dac--
+2020-11-21 04:04:04 Finished printing file 0:gcodes/12M12TBase11172020.gcode, print time was 21h 13m
+2020-11-21 09:14:44 Started printing file 0:gcodes/M12A1.gcode
+2020-11-21 09:14:44 Error: Bad command: --------------------------15814eb77b0765c6
+2020-11-21 09:14:44 Error: Bad command: Content-Disposition: form-data
+2020-11-21 09:14:44 Error: Bad command: Content-Type: application/octet-stream
+2020-11-21 09:27:13 Resume state saved
+2020-11-21 09:27:17 Printing paused at X149.6 Y32.2 Z0.8
+2020-11-21 09:27:20 Cancelled printing file 0:gcodes/M12A1.gcode, print time was 0h 12m
+2020-11-21 10:26:17 HTTP client 192.168.0.156 disconnected
+2020-11-21 10:33:05 HTTP client 192.168.0.156 disconnected
+2020-11-21 10:34:15 HTTP client 192.168.0.156 login succeeded
+2020-11-21 10:40:42 HTTP client 192.168.0.135 login succeeded
+2020-11-21 10:42:34 Started printing file 0:/gcodes/1M12S11212020.gcode
+2020-11-21 10:42:34 Warning: Macro file startPrint.g not found
+2020-11-21 10:43:02 Resume state saved
