@@ -1,8 +1,8 @@
-; config-override.g file generated in response to M500 at 2019-10-19 19:54
+; config-override.g file generated in response to M500 at 2020-12-31 15:18
 ; This is a system-generated file - do not edit
 ; Heater model parameters
 M307 H0 A154.3 C506.0 D1.0 S1.00 V24.5 B0
-M307 H1 A580.3 C264.1 D4.2 S1.00 V24.2 B0
+M307 H1 A618.2 C134.6 D1.3 S1.00 V24.5 B0
 M307 H2 A21.2 C752.0 D0.8 S1.00 V24.5 B0
 G10 L2 P1 X0.00 Y0.00 Z0.00
 G10 L2 P2 X0.00 Y0.00 Z0.00

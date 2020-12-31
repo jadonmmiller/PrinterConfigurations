@@ -24,7 +24,7 @@ M569 P3 S1 D2                                      ; Drive 3 goes forwards    E
 M569 P4 S1                                         ; Drive 4 goes forwards    Y2
 M584 X0 Y1:4 Z2 E3                                 ; Remap for dual Y motors
 M350 X16 Y16 Z16 E16 I1                            ; Configure microstepping with interpolation
-M92 X87.90 Y87.90 Z1066.68 E423                   ; Set steps per mm
+M92 X87.90 Y87.90 Z1066.68 E423                    ; Set steps per mm
 M566 X700.00 Y700.00 Z400.00 E1200.00              ; Set maximum instantaneous speed changes (mm/min)
 M203 X45000.00 Y45000.00 Z2800.00 E1800.00         ; Set maximum speeds (mm/min)
 M201 X1000.00 Y1000.00 Z250.00 E6000.00            ; Set accelerations (mm/s^2)
@@ -41,7 +41,7 @@ M574 X1 Y2 S0                                      ; Set active low (NC) and dis
 ; Z-Probe
 M574 Z1 S2                                         ; Set endstops controlled by probe
 M558 P9 H3 F120 T6000 A5 S0.010                    ; Set Z probe type to bltouch and the dive height + speeds --- OVERRIDDEN IN Z HOMING
-G31 P500 X-36 Y5 Z4.980                            ; Set Z probe trigger value, offset and trigger height
+G31 P500 X-36 Y5 Z5.220                            ; Set Z probe trigger value, offset and trigger height
 M557 X5:252 Y5:270 S25                             ; Define mesh grid
 
 ; Heaters
@@ -81,5 +81,6 @@ M591 D0 P7 C3 S0 L10 R50:250 E10                   ; Enable filament sensing on 
 
 T0                                                 ; Set default tool
 M703                                               ; Load filament config
+M929 S1                                            ; Start Logging
 
 

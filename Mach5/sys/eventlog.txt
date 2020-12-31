@@ -68,3 +68,1051 @@
 2019-11-08 18:29:46 Error: Bad command: --------------------------357abbcf204006ff--
 2019-11-08 18:29:49 Finished printing file 0:/gcodes/61068-3.gcode, print time was 0h 54m
 2019-11-08 18:42:55 Warning: VIN under-voltage event (9.5V)
+2020-05-15 10:12:25 Event logging started
+2020-05-15 10:12:46 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:12:52 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:12:55 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:16:17 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:16:21 HTTP client 192.168.0.158 login succeeded
+2020-05-15 10:16:32 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:16:46 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:16:47 HTTP client 192.168.0.158 login succeeded
+2020-05-15 10:16:55 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:16:55 HTTP client 192.168.0.158 login succeeded
+2020-05-15 10:17:01 HTTP client 192.168.0.150 login succeeded
+2020-05-15 10:20:45 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:22:26 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:24:37 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:27:20 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:30:28 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:34:18 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:37:30 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:38:15 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:44:32 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:47:23 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:47:41 HTTP client 192.168.0.122 login succeeded
+2020-05-15 10:54:03 HTTP client 192.168.0.122 login succeeded
+2020-05-15 11:12:24 HTTP client 192.168.0.158 login succeeded
+2020-05-15 11:12:27 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:52:49 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:52:50 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:52:55 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:52:55 HTTP client 192.168.0.158 login succeeded
+2020-05-15 11:53:18 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:53:29 HTTP client 192.168.0.158 login succeeded
+2020-05-15 11:53:33 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:55:08 HTTP client 192.168.0.150 login succeeded
+2020-05-15 11:55:08 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:00:08 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:00:08 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:02:08 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:02:08 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:04:08 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:04:08 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:09:09 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:09:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:11:09 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:11:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:14:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:14:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:14:10 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:12 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:25 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:14:25 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:14:26 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:28 Resume state saved
+2020-05-15 12:14:31 Printing paused at X201.5 Y222.3 Z3.2
+2020-05-15 12:14:39 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:14:41 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:14:41 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:44 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:46 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:48 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:53 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:14:54 Cancelled printing file 0:/gcodes/95542-2.gcode, print time was 2h 23m
+2020-05-15 12:15:08 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:15:13 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:15:17 Started printing file 0:/gcodes/95542-2.gcode
+2020-05-15 12:15:18 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:15:21 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:15:25 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:17:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:17:09 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:17:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:18:09 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:18:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:18:23 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:25:09 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:25:12 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:27:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:29:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:29:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:29:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:32:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:32:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:36:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:36:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:37:01 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:39:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:39:10 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:42:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:42:11 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:42:29 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:42:53 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:42:57 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:43:03 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:44:10 HTTP client 192.168.0.150 login succeeded
+2020-05-15 12:44:11 HTTP client 192.168.0.158 login succeeded
+2020-05-15 12:44:11 HTTP client 192.168.0.122 login succeeded
+2020-05-15 12:44:49 HTTP client 192.168.0.122 login succeeded
+2020-05-15 13:03:11 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:03:12 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:10:12 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:10:12 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:10:13 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:15:12 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:15:12 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:31:13 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:31:13 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:31:26 HTTP client 192.168.0.122 login succeeded
+2020-05-15 13:31:44 HTTP client 192.168.0.122 login succeeded
+2020-05-15 13:37:13 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:37:13 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:43:13 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:43:14 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:50:14 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:50:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:51:24 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:51:24 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:51:42 HTTP client 192.168.0.158 login succeeded
+2020-05-15 13:51:43 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:52:23 HTTP client 192.168.0.150 login succeeded
+2020-05-15 13:52:23 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:00:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:00:14 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:04:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:04:15 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:04:16 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:12:14 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:12:15 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:25:15 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:25:16 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:38:26 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:38:26 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:38:43 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:38:44 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:38:49 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:38:51 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:39:37 Resume state saved
+2020-05-15 14:39:37 Print auto-paused due to low voltage
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:03 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:39:48 Date and time set at power up + 00:00:03
+2020-05-15 14:39:48 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:39:48 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:39:59 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:43:55 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:44:29 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:46:02 HTTP client 192.168.0.122 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:05 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:46:31 Date and time set at power up + 00:00:05
+2020-05-15 14:46:31 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:46:32 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:46:49 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:46:50 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:46:50 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:47:25 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:50:42 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:51:22 Error: Temperature reading fault on heater 1: sensor open circuit
+2020-05-15 14:52:32 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:54:07 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:54:07 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:54:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:54:13 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:54:37 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:54:45 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:54:47 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:56:19 HTTP client 192.168.0.158 login succeeded
+2020-05-15 14:56:19 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:56:19 HTTP client 192.168.0.150 login succeeded
+2020-05-15 14:56:32 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:56:57 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:57:54 HTTP client 192.168.0.122 login succeeded
+2020-05-15 14:58:24 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:00:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:00:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:02:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:02:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:04:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:04:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:06:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:06:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:09:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:09:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:11:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:11:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:13:20 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:13:20 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:13:28 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:13:36 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:13:38 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:13:40 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:13:50 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:13:52 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:13:58 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:14:10 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:14:18 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:02:43 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:17:04 Date and time set at power up + 00:02:43
+2020-05-15 15:24:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:24:15 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:24:25 HTTP client 192.168.0.158 login succeeded
+2020-05-15 15:24:30 HTTP client 192.168.0.150 login succeeded
+2020-05-15 15:30:27 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:31:14 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:36:19 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:36:25 HTTP client 192.168.0.122 login succeeded
+2020-05-15 15:37:01 HTTP client 192.168.0.122 login succeeded
+2020-05-15 16:27:09 HTTP client 192.168.0.150 login succeeded
+2020-05-15 16:27:22 HTTP client 192.168.0.158 login succeeded
+2020-05-15 16:27:27 HTTP client 192.168.0.150 login succeeded
+2020-05-15 16:37:13 Warning: VIN under-voltage event (9.5V)
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:03 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:40:14 Date and time set at power up + 00:00:03
+2020-05-15 17:40:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:40:14 HTTP client 192.168.0.158 login succeeded
+2020-05-15 17:40:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:40:16 HTTP client 192.168.0.158 login succeeded
+2020-05-15 17:40:19 HTTP client 192.168.0.158 login succeeded
+2020-05-15 17:40:45 HTTP client 192.168.0.122 login succeeded
+2020-05-15 17:40:47 HTTP client 192.168.0.122 login succeeded
+2020-05-15 17:43:19 HTTP client 192.168.0.122 login succeeded
+2020-05-15 17:45:21 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:45:42 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:46:36 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:47:13 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:47:34 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:47:54 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:53:10 HTTP client 192.168.0.122 login succeeded
+2020-05-15 17:55:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:55:15 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:55:17 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:55:21 HTTP client 192.168.0.158 login succeeded
+2020-05-15 17:55:51 HTTP client 192.168.0.158 login succeeded
+2020-05-15 17:56:22 HTTP client 192.168.0.122 login succeeded
+2020-05-15 17:58:58 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:59:32 HTTP client 192.168.0.150 login succeeded
+2020-05-15 17:59:46 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:00:38 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:01:00 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:02:26 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:02:47 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:03:16 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:03:36 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:03:53 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:04:13 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:04:29 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:04:50 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:05:11 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:05:33 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:06:53 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:07:18 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:08:24 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:08:45 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:08:59 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:09:19 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:09:41 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:10:16 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:10:58 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:11:44 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:12:06 HTTP client 192.168.0.150 login succeeded
+2020-05-15 18:19:38 HTTP client 192.168.0.122 login succeeded
+2020-05-15 18:33:12 HTTP client 192.168.0.158 login succeeded
+2020-05-15 18:39:26 HTTP client 192.168.0.122 login succeeded
+2020-05-15 18:44:08 HTTP client 192.168.0.122 login succeeded
+2020-05-15 18:51:58 HTTP client 192.168.0.122 login succeeded
+2020-05-15 18:55:50 Started printing file 0:/gcodes/FanDuct1.gcode
+2020-05-15 18:59:50 HTTP client 192.168.0.122 login succeeded
+2020-05-15 19:00:43 HTTP client 192.168.0.122 login succeeded
+2020-05-15 19:01:26 HTTP client 192.168.0.122 login succeeded
+2020-05-15 19:03:25 HTTP client 192.168.0.122 login succeeded
+2020-05-15 19:04:08 HTTP client 192.168.0.122 login succeeded
+2020-05-15 19:05:05 HTTP client 192.168.0.122 login succeeded
+2020-05-15 19:30:16 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:30:35 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:36:16 HTTP client 192.168.0.158 login succeeded
+2020-05-15 19:49:31 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:49:50 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:50:04 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:50:23 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:51:03 HTTP client 192.168.0.150 login succeeded
+2020-05-15 19:51:22 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:03:59 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:04:17 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:16:41 Finished printing file 0:/gcodes/FanDuct1.gcode, print time was 1h 21m
+2020-05-15 20:33:26 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:33:44 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:39:16 HTTP client 192.168.0.158 login succeeded
+2020-05-15 20:53:30 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:53:49 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:56:34 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:56:36 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:56:37 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:56:39 HTTP client 192.168.0.150 login succeeded
+2020-05-15 20:56:44 HTTP client 192.168.0.158 login succeeded
+2020-05-15 20:57:19 HTTP client 192.168.0.158 login succeeded
+2020-05-15 21:00:03 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:00:23 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:09:02 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:09:21 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:10:02 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:10:23 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:10:40 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:10:54 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:11:14 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:20:18 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:20:38 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:20:52 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:21:12 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:21:28 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:21:47 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:23:24 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:24:02 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:24:25 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:25:07 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:25:35 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:25:53 HTTP client 192.168.0.150 login succeeded
+2020-05-15 21:42:14 HTTP client 192.168.0.158 login succeeded
+2020-05-15 22:09:07 HTTP client 192.168.0.150 disconnected
+2020-05-15 22:22:33 Warning: VIN under-voltage event (9.5V)
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:03 HTTP client 192.168.0.158 login succeeded
+2020-05-16 09:57:08 Date and time set at power up + 00:00:03
+2020-05-16 09:57:08 HTTP client 192.168.0.158 login succeeded
+2020-05-16 09:57:09 HTTP client 192.168.0.158 login succeeded
+2020-05-16 09:57:12 HTTP client 192.168.0.158 login succeeded
+2020-05-16 09:59:08 HTTP client 192.168.0.122 login succeeded
+2020-05-16 10:03:54 Started printing file 0:/gcodes/95542-2.gcode
+2020-05-16 10:05:40 HTTP client 192.168.0.122 login succeeded
+2020-05-16 10:07:08 HTTP client 192.168.0.122 login succeeded
+2020-05-16 10:07:25 HTTP client 192.168.0.122 login succeeded
+2020-05-16 10:17:38 HTTP client 192.168.0.158 login succeeded
+2020-05-16 10:17:41 HTTP client 192.168.0.122 login succeeded
+2020-05-16 10:24:35 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:20:35 HTTP client 192.168.0.158 login succeeded
+2020-05-16 11:26:48 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:31:26 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:33:30 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:46:05 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:50:07 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:56:19 HTTP client 192.168.0.122 login succeeded
+2020-05-16 11:59:19 HTTP client 192.168.0.122 login succeeded
+2020-05-16 12:02:50 HTTP client 192.168.0.158 login succeeded
+2020-05-16 12:03:22 HTTP client 192.168.0.158 login succeeded
+2020-05-16 12:23:19 HTTP client 192.168.0.158 login succeeded
+2020-05-16 12:23:36 HTTP client 192.168.0.158 login succeeded
+2020-05-16 12:26:32 HTTP client 192.168.0.122 login succeeded
+2020-05-16 13:26:35 HTTP client 192.168.0.158 login succeeded
+2020-05-16 13:42:57 HTTP client 192.168.0.107 login succeeded
+2020-05-16 13:43:22 Resume state saved
+2020-05-16 13:43:26 Printing paused at X69.7 Y101.1 Z5.6
+2020-05-16 13:43:43 Cancelled printing file 0:/gcodes/95542-2.gcode, print time was 3h 39m
+2020-05-16 13:45:36 HTTP client 192.168.0.107 login succeeded
+2020-05-16 13:45:50 HTTP client 192.168.0.107 login succeeded
+2020-05-16 13:46:34 HTTP client 192.168.0.107 login succeeded
+2020-05-16 13:46:53 HTTP client 192.168.0.107 login succeeded
+2020-05-16 13:47:28 HTTP client 192.168.0.107 login succeeded
+2020-05-16 14:29:35 HTTP client 192.168.0.158 login succeeded
+2020-05-16 15:04:05 HTTP client 192.168.0.158 login succeeded
+2020-05-16 15:04:38 HTTP client 192.168.0.158 login succeeded
+2020-05-16 15:32:35 HTTP client 192.168.0.158 login succeeded
+2020-05-16 16:16:06 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:02 Network running, IP address = 192.168.0.123
+power up + 00:00:03 HTTP client 192.168.0.158 login succeeded
+2020-05-16 16:16:31 Date and time set at power up + 00:00:03
+2020-05-16 16:18:35 HTTP client 192.168.0.158 login succeeded
+2020-05-16 16:19:08 HTTP client 192.168.0.158 login succeeded
+2020-05-16 16:21:01 Started printing file 0:/gcodes/395542.gcode
+2020-05-16 16:21:01 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+2020-05-16 16:21:01 Cancelled printing file 0:/gcodes/395542.gcode, print time was 0h 0m
+2020-05-16 16:21:01 Error: G0/G1: insufficient axes homed
+2020-05-16 16:21:35 Started printing file 0:/gcodes/395542.gcode
+2020-05-16 16:35:54 HTTP client 192.168.0.158 login succeeded
+2020-05-16 17:38:41 HTTP client 192.168.0.158 login succeeded
+2020-05-16 17:39:25 HTTP client 192.168.0.158 login succeeded
+2020-05-16 17:59:58 Resume state saved
+2020-05-16 18:00:02 Printing paused at X85.0 Y192.8 Z3.3
+2020-05-16 18:00:02 Cancelled printing file 0:/gcodes/395542.gcode, print time was 1h 38m
+2020-05-16 18:01:53 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:01:59 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:44 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:22 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:27 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:27 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:32 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:36 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:41 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:41 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:01:28 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:05:27 Date and time set at power up + 00:01:28
+2020-05-16 18:05:54 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:06:03 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:09:03 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:09:26 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:09:30 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:09:31 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:34 Error: short-to-ground reported by driver(s) 4
+power up + 00:00:36 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:31 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:34 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:42 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:11:26 Date and time set at power up + 00:00:42
+2020-05-16 18:11:31 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:11:36 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:11:40 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:11:45 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:11:49 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:11:54 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:11:58 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:03 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:04 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:12:07 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:12 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:16 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:21 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:25 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:30 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:34 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:35 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:12:39 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:43 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:48 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:52 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:12:57 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:13:01 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:13:06 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:13:10 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:13:10 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:13:15 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:13:19 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:22 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:25 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:49 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:14:38 Date and time set at power up + 00:00:49
+2020-05-16 18:14:46 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:14:49 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:10 Error: short-to-ground reported by driver(s) 1 4
+power up + 00:00:14 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:23 Error: short-to-ground reported by driver(s) 1 4
+power up + 00:00:28 Error: short-to-ground reported by driver(s) 1 4
+power up + 00:00:32 Error: short-to-ground reported by driver(s) 1 4
+power up + 00:00:37 Error: short-to-ground reported by driver(s) 1 4
+power up + 00:00:37 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:05 Error: short-to-ground reported by driver(s) 1 4
+power up + 00:00:08 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:01:20 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:17:15 Date and time set at power up + 00:01:20
+2020-05-16 18:17:18 Error: short-to-ground reported by driver(s) 1 4
+2020-05-16 18:17:20 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:19 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:22 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:13 Error: short-to-ground reported by driver(s) 4
+power up + 00:00:14 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:13 Error: short-to-ground reported by driver(s) 4
+power up + 00:00:16 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:02:16 Error: short-to-ground reported by driver(s) 1
+power up + 00:02:17 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:11 Error: short-to-ground reported by driver(s) 1
+power up + 00:00:12 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:02:16 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:23:07 Date and time set at power up + 00:02:16
+2020-05-16 18:23:11 Error: short-to-ground reported by driver(s) 1
+2020-05-16 18:23:13 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:17 Warning: VIN under-voltage event (9.5V)
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:03 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:23:47 Date and time set at power up + 00:00:03
+2020-05-16 18:23:47 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:23:48 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:24:17 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:11 Error: short-to-ground reported by driver(s) 4
+power up + 00:00:12 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:12 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:03 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:24:55 Date and time set at power up + 00:00:03
+2020-05-16 18:25:12 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:28:25 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:33:04 HTTP client 192.168.0.158 disconnected
+2020-05-16 18:34:20 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:34:45 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:34:55 HTTP client 192.168.0.158 login succeeded
+2020-05-16 18:36:06 HTTP client 192.168.0.122 login succeeded
+2020-05-16 18:37:07 Started printing file 0:/gcodes/Parts3.gcode
+2020-05-16 18:41:49 HTTP client 192.168.0.158 login succeeded
+2020-05-16 19:44:53 HTTP client 192.168.0.158 login succeeded
+2020-05-16 20:06:53 HTTP client 192.168.0.150 login succeeded
+2020-05-16 20:32:43 HTTP client 192.168.0.150 login succeeded
+2020-05-16 20:33:02 HTTP client 192.168.0.150 login succeeded
+2020-05-16 20:43:33 HTTP client 192.168.0.150 login succeeded
+2020-05-16 20:43:51 HTTP client 192.168.0.150 login succeeded
+2020-05-16 20:47:52 HTTP client 192.168.0.158 login succeeded
+2020-05-16 21:06:47 HTTP client 192.168.0.150 login succeeded
+2020-05-16 21:06:47 HTTP client 192.168.0.150 login succeeded
+2020-05-16 21:06:52 HTTP client 192.168.0.150 login succeeded
+2020-05-16 21:06:53 HTTP client 192.168.0.158 login succeeded
+2020-05-16 21:07:29 HTTP client 192.168.0.158 login succeeded
+2020-05-16 21:08:27 HTTP client 192.168.0.150 login succeeded
+2020-05-16 21:08:45 HTTP client 192.168.0.150 login succeeded
+2020-05-16 21:50:52 HTTP client 192.168.0.158 login succeeded
+2020-05-16 21:59:39 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:00:18 Resume state saved
+2020-05-16 22:00:22 Printing paused at X158.7 Y168.4 Z10.1
+2020-05-16 22:02:53 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:05:10 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:05:44 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:06:14 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:18:34 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:18:51 Cancelled printing file 0:/gcodes/Parts3.gcode, print time was 3h 23m
+2020-05-16 22:18:52 Started printing file 0:/gcodes/Parts3.gcode
+2020-05-16 22:20:29 Resume state saved
+2020-05-16 22:20:35 Printing paused at X194.3 Y65.1 Z1.0
+2020-05-16 22:20:35 Cancelled printing file 0:/gcodes/Parts3.gcode, print time was 0h 2m
+2020-05-16 22:23:22 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:24:06 HTTP client 192.168.0.158 disconnected
+2020-05-16 22:24:28 Started printing file 0:/gcodes/CCube90.gcode
+2020-05-16 22:24:28 Error: Bad command: --------------------------542fc5c7ec8c9924
+2020-05-16 22:24:28 Error: Bad command: Content-Disposition: form-data
+2020-05-16 22:24:28 Error: Bad command: Content-Type: application/octet-stream
+2020-05-16 22:24:46 Resume state saved
+2020-05-16 22:24:49 Printing paused at X175.0 Y133.0 Z8.8
+2020-05-16 22:24:56 Cancelled printing file 0:/gcodes/CCube90.gcode, print time was 0h 0m
+2020-05-16 22:24:59 Started printing file 0:/gcodes/CCube90.gcode
+2020-05-16 22:24:59 Error: Bad command: --------------------------542fc5c7ec8c9924
+2020-05-16 22:24:59 Error: Bad command: Content-Disposition: form-data
+2020-05-16 22:24:59 Error: Bad command: Content-Type: application/octet-stream
+2020-05-16 22:33:47 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:35:20 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:36:00 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:36:21 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:38:02 Resume state saved
+2020-05-16 22:38:06 Printing paused at X153.3 Y123.7 Z11.5
+2020-05-16 22:38:06 Cancelled printing file 0:/gcodes/CCube90.gcode, print time was 0h 13m
+2020-05-16 22:38:13 Error: Heating fault on heater 1
+2020-05-16 22:39:46 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:01:26 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:41:04 Date and time set at power up + 00:01:26
+2020-05-16 22:41:41 HTTP client 192.168.0.122 login succeeded
+2020-05-16 22:43:26 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:44:53 HTTP client 192.168.0.158 disconnected
+2020-05-16 22:45:13 Started printing file 0:/gcodes/Part10.gcode
+2020-05-16 22:45:13 Error: Bad command: --------------------------31ebf4e469887bd4
+2020-05-16 22:45:13 Error: Bad command: Content-Disposition: form-data
+2020-05-16 22:45:13 Error: Bad command: Content-Type: application/octet-stream
+2020-05-16 22:46:08 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:49:11 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:53:36 HTTP client 192.168.0.158 login succeeded
+2020-05-16 22:54:23 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:55:00 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:55:29 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:55:43 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:56:11 HTTP client 192.168.0.107 login succeeded
+2020-05-16 22:59:54 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:06:45 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:07:48 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:20:21 HTTP client 192.168.0.150 login succeeded
+2020-05-16 23:20:39 HTTP client 192.168.0.150 login succeeded
+2020-05-16 23:20:59 HTTP client 192.168.0.158 login succeeded
+2020-05-16 23:21:36 HTTP client 192.168.0.158 login succeeded
+2020-05-16 23:21:46 HTTP client 192.168.0.158 login succeeded
+2020-05-16 23:25:14 HTTP client 192.168.0.122 login succeeded
+2020-05-16 23:26:03 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:26:54 HTTP client 192.168.0.122 login succeeded
+2020-05-16 23:27:52 HTTP client 192.168.0.122 login succeeded
+2020-05-16 23:39:11 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:40:47 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:41:29 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:42:01 HTTP client 192.168.0.107 login succeeded
+2020-05-16 23:47:17 HTTP client 192.168.0.150 login succeeded
+2020-05-16 23:47:36 HTTP client 192.168.0.150 login succeeded
+2020-05-16 23:49:02 HTTP client 192.168.0.150 login succeeded
+2020-05-16 23:49:21 HTTP client 192.168.0.150 login succeeded
+2020-05-16 23:50:54 HTTP client 192.168.0.122 login succeeded
+2020-05-16 23:51:31 HTTP client 192.168.0.122 login succeeded
+2020-05-16 23:56:40 HTTP client 192.168.0.158 login succeeded
+2020-05-16 23:56:41 HTTP client 192.168.0.158 login succeeded
+2020-05-17 00:07:52 HTTP client 192.168.0.150 login succeeded
+2020-05-17 00:07:53 HTTP client 192.168.0.150 login succeeded
+2020-05-17 00:07:54 HTTP client 192.168.0.150 login succeeded
+2020-05-17 00:07:56 HTTP client 192.168.0.150 login succeeded
+2020-05-17 00:07:58 HTTP client 192.168.0.158 login succeeded
+2020-05-17 00:08:22 HTTP client 192.168.0.158 login succeeded
+2020-05-17 00:08:31 HTTP client 192.168.0.158 login succeeded
+2020-05-17 00:14:10 HTTP client 192.168.0.150 login succeeded
+2020-05-17 00:14:28 HTTP client 192.168.0.150 login succeeded
+2020-05-17 02:46:45 Error: Bad command: --------------------------31ebf4e469887bd4--
+2020-05-17 02:46:48 Finished printing file 0:/gcodes/Part10.gcode, print time was 4h 2m
+2020-05-17 03:09:05 HTTP client 192.168.0.150 login succeeded
+2020-05-17 03:09:08 HTTP client 192.168.0.150 login succeeded
+2020-05-17 03:09:11 HTTP client 192.168.0.150 login succeeded
+2020-05-17 03:20:08 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:18:58 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:22:47 Date and time set at power up + 00:18:58
+2020-05-18 09:23:17 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:23:26 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:23:27 HTTP client 192.168.0.158 disconnected
+2020-05-18 09:26:28 Started printing file 0:/gcodes/955422nd.gcode
+2020-05-18 09:34:37 Error: Heating fault on heater 1, temperature excursion exceeded 15.0°C
+2020-05-18 09:34:37 Resume state saved
+2020-05-18 09:34:41 Printing paused at X149.1 Y194.6 Z0.9
+2020-05-18 09:41:30 Cancelled printing file 0:/gcodes/955422nd.gcode, print time was 0h 8m
+2020-05-18 09:41:30 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:09:46 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:51:15 Date and time set at power up + 00:09:46
+2020-05-18 09:51:15 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:51:15 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:51:20 HTTP client 192.168.0.158 login succeeded
+2020-05-18 09:53:58 HTTP client 192.168.0.158 login succeeded
+2020-05-18 10:02:48 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:03:09 Started printing file 0:/gcodes/955422nd.gcode
+2020-05-18 10:06:21 Cancelled printing file 0:/gcodes/955422nd.gcode, print time was 0h 3m
+2020-05-18 10:06:21 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:01:45 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:08:13 Date and time set at power up + 00:01:45
+2020-05-18 10:08:21 Started printing file 0:/gcodes/955422nd.gcode
+2020-05-18 10:10:18 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:11:32 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:13:43 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:13:55 HTTP client 192.168.0.150 login succeeded
+2020-05-18 10:14:52 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:16:32 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:34:18 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:38:21 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:38:39 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:39:09 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:41:59 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:43:04 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:45:28 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:45:56 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:46:23 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:48:01 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:51:01 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:51:19 HTTP client 192.168.0.122 login succeeded
+2020-05-18 10:56:15 HTTP client 192.168.0.158 login succeeded
+2020-05-18 10:56:21 HTTP client 192.168.0.158 disconnected
+2020-05-18 10:57:18 HTTP client 192.168.0.150 login succeeded
+2020-05-18 10:57:28 HTTP client 192.168.0.158 login succeeded
+2020-05-18 10:57:36 HTTP client 192.168.0.150 login succeeded
+2020-05-18 11:59:56 HTTP client 192.168.0.158 login succeeded
+2020-05-18 12:00:22 HTTP client 192.168.0.158 login succeeded
+2020-05-18 12:03:17 HTTP client 192.168.0.122 login succeeded
+2020-05-18 12:05:06 HTTP client 192.168.0.122 login succeeded
+2020-05-18 12:22:55 HTTP client 192.168.0.150 login succeeded
+2020-05-18 12:22:56 HTTP client 192.168.0.150 login succeeded
+2020-05-18 12:22:59 HTTP client 192.168.0.150 login succeeded
+2020-05-18 12:24:38 HTTP client 192.168.0.158 login succeeded
+2020-05-18 12:25:14 HTTP client 192.168.0.158 login succeeded
+2020-05-18 12:25:33 HTTP client 192.168.0.158 login succeeded
+2020-05-18 12:25:42 HTTP client 192.168.0.158 login succeeded
+2020-05-18 12:49:19 HTTP client 192.168.0.158 login succeeded
+2020-05-18 13:14:28 HTTP client 192.168.0.158 login succeeded
+2020-05-18 13:15:02 HTTP client 192.168.0.158 login succeeded
+2020-05-18 13:20:41 HTTP client 192.168.0.158 login succeeded
+2020-05-18 14:03:25 HTTP client 192.168.0.150 login succeeded
+2020-05-18 14:03:44 HTTP client 192.168.0.150 login succeeded
+2020-05-18 14:05:42 HTTP client 192.168.0.158 login succeeded
+2020-05-18 14:05:59 HTTP client 192.168.0.158 login succeeded
+2020-05-18 14:06:37 HTTP client 192.168.0.158 login succeeded
+2020-05-18 15:55:50 Finished printing file 0:/gcodes/955422nd.gcode, print time was 5h 47m
+2020-05-18 17:23:03 HTTP client 192.168.0.158 login succeeded
+2020-05-18 17:23:04 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:23:04 HTTP client 192.168.0.158 login succeeded
+2020-05-18 17:23:05 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:23:06 HTTP client 192.168.0.158 login succeeded
+2020-05-18 17:23:10 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:23:30 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:23:51 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:24:15 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:24:34 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:24:57 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:25:16 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:25:31 HTTP client 192.168.0.158 disconnected
+2020-05-18 17:25:33 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:25:52 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:25:55 Started printing file 0:/gcodes/Parts11.gcode
+2020-05-18 17:25:55 Error: Bad command: --------------------------f4ccc97d39e53e9b
+2020-05-18 17:25:55 Error: Bad command: Content-Disposition: form-data
+2020-05-18 17:25:55 Error: Bad command: Content-Type: application/octet-stream
+2020-05-18 17:32:30 HTTP client 192.168.0.158 login succeeded
+2020-05-18 17:32:54 HTTP client 192.168.0.158 login succeeded
+2020-05-18 17:33:31 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:33:49 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:35:04 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:35:24 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:50:19 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:50:37 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:51:59 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:52:19 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:53:19 HTTP client 192.168.0.150 login succeeded
+2020-05-18 17:53:38 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:19:35 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:19:57 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:20:01 Resume state saved
+2020-05-18 18:20:05 Printing paused at X109.6 Y128.6 Z6.1
+2020-05-18 18:20:28 Cancelled printing file 0:/gcodes/Parts11.gcode, print time was 0h 54m
+2020-05-18 18:20:31 Started printing file 0:/gcodes/Parts11.gcode
+2020-05-18 18:20:31 Error: Bad command: --------------------------f4ccc97d39e53e9b
+2020-05-18 18:20:31 Error: Bad command: Content-Disposition: form-data
+2020-05-18 18:20:31 Error: Bad command: Content-Type: application/octet-stream
+2020-05-18 18:21:23 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:23:51 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:25:19 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:25:20 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:25:22 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:25:22 HTTP client 192.168.0.158 login succeeded
+2020-05-18 18:25:30 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:28:19 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:28:37 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:29:34 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:32:56 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:33:23 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:35:47 HTTP client 192.168.0.158 login succeeded
+2020-05-18 18:36:20 HTTP client 192.168.0.122 login succeeded
+2020-05-18 18:37:47 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:38:06 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:41:50 HTTP client 192.168.0.150 login succeeded
+2020-05-18 18:42:09 HTTP client 192.168.0.150 login succeeded
+2020-05-18 19:04:12 HTTP client 192.168.0.150 login succeeded
+2020-05-18 19:04:31 HTTP client 192.168.0.150 login succeeded
+2020-05-18 19:06:17 HTTP client 192.168.0.150 login succeeded
+2020-05-18 19:06:35 HTTP client 192.168.0.150 login succeeded
+2020-05-18 19:29:04 HTTP client 192.168.0.158 login succeeded
+2020-05-18 19:29:30 HTTP client 192.168.0.158 login succeeded
+2020-05-18 19:38:45 HTTP client 192.168.0.158 login succeeded
+2020-05-18 19:46:49 HTTP client 192.168.0.150 login succeeded
+2020-05-18 19:47:07 HTTP client 192.168.0.150 login succeeded
+2020-05-18 20:18:17 HTTP client 192.168.0.150 login succeeded
+2020-05-18 20:18:36 HTTP client 192.168.0.150 login succeeded
+2020-05-18 20:41:40 HTTP client 192.168.0.158 login succeeded
+2020-05-18 21:06:36 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:06:57 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:07:19 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:07:39 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:08:04 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:08:23 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:09:17 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:09:50 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:10:19 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:10:38 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:12:06 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:12:25 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:13:18 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:13:36 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:20:56 HTTP client 192.168.0.158 login succeeded
+2020-05-18 21:21:00 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:26:37 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:26:39 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:26:40 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:26:41 HTTP client 192.168.0.158 login succeeded
+2020-05-18 21:26:42 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:27:00 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:27:12 HTTP client 192.168.0.158 login succeeded
+2020-05-18 21:27:17 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:33:51 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:34:21 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:34:44 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:35:41 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:36:00 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:38:08 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:38:27 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:38:39 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:39:52 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:40:10 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:40:41 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:41:00 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:41:55 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:42:14 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:44:42 HTTP client 192.168.0.158 login succeeded
+2020-05-18 21:45:47 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:46:09 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:46:28 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:52:37 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:52:55 HTTP client 192.168.0.150 login succeeded
+2020-05-18 21:59:49 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:01:03 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:01:34 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:02:08 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:06:02 HTTP client 192.168.0.150 login succeeded
+2020-05-18 22:06:25 HTTP client 192.168.0.150 login succeeded
+2020-05-18 22:06:53 HTTP client 192.168.0.150 login succeeded
+2020-05-18 22:07:12 HTTP client 192.168.0.150 login succeeded
+2020-05-18 22:13:54 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:21:07 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:25:52 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:26:33 HTTP client 192.168.0.158 disconnected
+2020-05-18 22:31:09 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:32:21 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:32:36 Error: Bad command: --------------------------f4ccc97d39e53e9b--
+2020-05-18 22:32:39 Finished printing file 0:/gcodes/Parts11.gcode, print time was 4h 12m
+2020-05-18 22:37:14 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:37:25 Started printing file 0:/gcodes/Parts12.gcode
+2020-05-18 22:37:25 Error: Bad command: --------------------------8f6e0b84386679a5
+2020-05-18 22:37:25 Error: Bad command: Content-Disposition: form-data
+2020-05-18 22:37:25 Error: Bad command: Content-Type: application/octet-stream
+2020-05-18 22:38:23 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:40:04 HTTP client 192.168.0.122 login succeeded
+2020-05-18 22:47:32 HTTP client 192.168.0.158 login succeeded
+2020-05-19 00:24:24 Error: Bad command: --------------------------8f6e0b84386679a5--
+2020-05-19 00:24:27 Finished printing file 0:/gcodes/Parts12.gcode, print time was 1h 47m
+2020-05-19 00:27:51 HTTP client 192.168.0.150 login succeeded
+2020-05-19 00:27:53 HTTP client 192.168.0.150 login succeeded
+2020-05-19 00:27:54 HTTP client 192.168.0.150 login succeeded
+2020-05-19 00:27:56 HTTP client 192.168.0.150 login succeeded
+2020-05-19 00:54:43 Power off commanded
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:11:58 HTTP client 192.168.0.158 login succeeded
+2020-06-08 14:46:36 Date and time set at power up + 00:11:58
+2020-06-08 14:47:54 HTTP client 192.168.0.158 login succeeded
+2020-06-08 14:48:17 HTTP client 192.168.0.158 login succeeded
+2020-06-08 14:48:26 HTTP client 192.168.0.158 disconnected
+2020-06-08 14:48:33 HTTP client 192.168.0.158 login succeeded
+2020-06-08 14:49:06 Started printing file 0:/gcodes/CValve1.gcode
+2020-06-08 15:02:43 Finished printing file 0:/gcodes/CValve1.gcode, print time was 0h 14m
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:04 Warning: VIN under-voltage event (9.5V)
+power up + 00:01:53 HTTP client 192.168.0.135 login succeeded
+2020-06-23 19:59:48 Date and time set at power up + 00:01:53
+2020-06-23 20:00:41 Warning: VIN under-voltage event (9.4V)
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:26 HTTP client 192.168.0.135 login succeeded
+2020-06-24 17:12:22 Date and time set at power up + 00:00:26
+2020-06-24 17:13:57 HTTP client 192.168.0.135 login succeeded
+2020-06-24 17:22:04 HTTP client 192.168.0.135 login succeeded
+2020-06-24 17:48:01 HTTP client 192.168.0.158 disconnected
+2020-06-24 17:48:24 HTTP client 192.168.0.158 login succeeded
+2020-06-24 17:52:25 HTTP client 192.168.0.135 login succeeded
+2020-06-24 17:58:31 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:05:41 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:11:59 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:12:45 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:15:37 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:16:01 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:21:24 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:31:27 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:34:07 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:38:34 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:39:10 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:43:45 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:53:43 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:53:54 Started printing file 0:/gcodes/StandCover.gcode
+2020-06-24 18:56:12 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:57:24 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:57:43 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:58:16 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:59:11 HTTP client 192.168.0.135 login succeeded
+2020-06-24 18:59:45 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:01:44 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:03:16 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:09:22 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:10:46 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:14:22 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:17:58 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:18:29 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:18:56 HTTP client 192.168.0.135 login succeeded
+2020-06-24 19:35:25 HTTP client 192.168.0.135 login succeeded
+2020-06-24 20:48:05 HTTP client 192.168.0.158 login succeeded
+2020-06-24 20:48:25 HTTP client 192.168.0.158 login succeeded
+2020-06-25 02:01:19 HTTP client 192.168.0.158 login succeeded
+2020-06-25 02:01:37 HTTP client 192.168.0.158 login succeeded
+2020-06-25 02:50:36 HTTP client 192.168.0.158 login succeeded
+2020-06-25 02:50:57 HTTP client 192.168.0.158 login succeeded
+2020-06-25 05:20:02 Finished printing file 0:/gcodes/StandCover.gcode, print time was 10h 26m
+2020-06-25 05:51:49 HTTP client 192.168.0.158 login succeeded
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:01:23 HTTP client 192.168.0.135 login succeeded
+2020-10-20 09:19:34 Date and time set at power up + 00:01:23
+2020-10-20 09:27:10 HTTP client 192.168.0.156 disconnected
+2020-10-20 09:27:29 HTTP client 192.168.0.156 login succeeded
+2020-10-20 09:31:18 Started printing file 0:/gcodes/Misfeed10202020.gcode
+2020-10-20 09:43:50 HTTP client 192.168.0.135 login succeeded
+2020-10-20 09:44:49 HTTP client 192.168.0.135 login succeeded
+2020-10-20 09:44:55 Resume state saved
+2020-10-20 09:44:58 Printing paused at X118.1 Y159.7 Z1.9
+2020-10-20 09:44:59 Cancelled printing file 0:/gcodes/Misfeed10202020.gcode, print time was 0h 14m
+2020-10-20 09:46:38 HTTP client 192.168.0.135 login succeeded
+2020-10-20 09:48:03 HTTP client 192.168.0.135 login succeeded
+2020-10-20 09:48:09 Started printing file 0:/gcodes/Misfeed10202020.gcode
+2020-10-20 09:50:05 HTTP client 192.168.0.156 login succeeded
+2020-10-20 10:58:44 HTTP client 192.168.0.135 login succeeded
+2020-10-20 11:13:05 HTTP client 192.168.0.135 login succeeded
+2020-10-20 11:24:36 HTTP client 192.168.0.135 login succeeded
+2020-10-20 11:27:07 HTTP client 192.168.0.135 login succeeded
+2020-10-20 12:44:31 HTTP client 192.168.0.135 login succeeded
+2020-10-20 12:44:35 Resume state saved
+2020-10-20 12:44:38 Printing paused at X183.3 Y128.3 Z19.9
+2020-10-20 12:45:22 HTTP client 192.168.0.135 login succeeded
+2020-10-20 12:47:52 Cancelled printing file 0:/gcodes/Misfeed10202020.gcode, print time was 2h 56m
+2020-10-20 12:48:20 HTTP client 192.168.0.135 login succeeded
+2020-10-20 12:51:31 HTTP client 192.168.0.156 login succeeded
+2020-10-20 12:59:22 Started printing file 0:/gcodes/Misfeed2.gcode
+2020-10-20 14:24:07 HTTP client 192.168.0.135 login succeeded
+2020-10-20 14:24:10 Resume state saved
+2020-10-20 14:24:14 Printing paused at X186.5 Y144.8 Z8.8
+2020-10-20 14:24:45 HTTP client 192.168.0.135 login succeeded
+2020-10-20 14:24:49 Cancelled printing file 0:/gcodes/Misfeed2.gcode, print time was 1h 25m
+2020-10-20 14:25:33 HTTP client 192.168.0.135 login succeeded
+2020-10-20 15:25:21 HTTP client 192.168.0.135 login succeeded
+2020-10-20 15:36:38 HTTP client 192.168.0.135 login succeeded
+2020-10-20 15:48:57 HTTP client 192.168.0.135 login succeeded
+2020-10-20 15:52:43 HTTP client 192.168.0.156 login succeeded
+2020-10-20 15:53:31 HTTP client 192.168.0.156 login succeeded
+2020-10-20 16:51:55 HTTP client 192.168.0.156 disconnected
+2020-10-20 16:52:34 Started printing file 0:/gcodes/Misfeed3.gcode
+2020-10-20 16:52:35 Error: Bad command: --------------------------2bd9c59a05118e29
+2020-10-20 16:52:35 Error: Bad command: Content-Disposition: form-data
+2020-10-20 16:52:35 Error: Bad command: Content-Type: application/octet-stream
+2020-10-20 17:12:41 HTTP client 192.168.0.135 login succeeded
+2020-10-20 17:12:45 Resume state saved
+2020-10-20 17:12:48 Printing paused at X172.8 Y111.0 Z2.5
+2020-10-20 17:12:48 Cancelled printing file 0:/gcodes/Misfeed3.gcode, print time was 0h 20m
+2020-10-20 17:13:00 Error: Heating fault on heater 2, temperature rising much more slowly than the expected 0.0°C/sec
+2020-10-20 17:13:28 HTTP client 192.168.0.135 login succeeded
+2020-10-20 17:13:37 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:42 Started printing file 0:/gcodes/Misfeed3.gcode
+power up + 00:00:42 Error: Bad command: --------------------------2bd9c59a05118e29
+power up + 00:00:42 Error: Bad command: Content-Disposition: form-data
+power up + 00:00:42 Error: Bad command: Content-Type: application/octet-stream
+power up + 00:01:26 HTTP client 192.168.0.135 login succeeded
+2020-10-20 17:15:06 Date and time set at power up + 00:01:26
+2020-10-20 17:15:08 Resume state saved
+2020-10-20 17:15:14 Printing paused at X107.0 Y107.9 Z0.7
+2020-10-20 17:15:30 Printing resumed
+2020-10-20 18:17:43 HTTP client 192.168.0.135 login succeeded
+2020-10-20 18:54:01 HTTP client 192.168.0.156 login succeeded
+2020-10-20 21:55:02 HTTP client 192.168.0.156 login succeeded
+2020-10-21 00:56:17 HTTP client 192.168.0.156 login succeeded
+2020-10-21 03:02:16 Error: Bad command: --------------------------2bd9c59a05118e29--
+2020-10-21 03:02:19 Finished printing file 0:/gcodes/Misfeed3.gcode, print time was 9h 48m
+2020-10-21 03:57:33 HTTP client 192.168.0.156 login succeeded
+2020-10-21 06:45:27 Warning: VIN under-voltage event (9.5V)
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:16 Warning: VIN under-voltage event (9.5V)
+power up + 00:00:00 Event logging started
+power up + 00:00:03 Network running, IP address = 192.168.0.123
+power up + 00:00:04 Warning: VIN under-voltage event (9.3V)
+power up + 00:15:33 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:31:39 Date and time set at power up + 00:15:33
+2020-12-31 13:32:17 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:33:08 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:01:13 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:34:22 Date and time set at power up + 00:01:13
+2020-12-31 13:34:28 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:23 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:34:54 Date and time set at power up + 00:00:23
+2020-12-31 13:36:02 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:36:41 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:38:34 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:41:26 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:41:32 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:58 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:42:31 Date and time set at power up + 00:00:58
+2020-12-31 13:42:53 Error: Temperature reading fault on heater 1: sensor open circuit
+2020-12-31 13:44:19 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:44:23 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:32 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:44:56 Date and time set at power up + 00:00:32
+2020-12-31 13:45:13 Error: Heating fault on heater 1, temperature rising much more slowly than the expected 0.8°C/sec
+2020-12-31 13:45:39 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:45:39 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:45:58 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Network running, IP address = 192.168.0.123
+power up + 00:00:50 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:48:49 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:49:32 HTTP client 192.168.0.135 login succeeded
+2020-12-31 13:51:20 HTTP client 192.168.0.135 login succeeded
+2020-12-31 14:38:29 HTTP client 192.168.0.135 login succeeded
+2020-12-31 14:51:26 HTTP client 192.168.0.135 login succeeded
+2020-12-31 14:59:20 HTTP client 192.168.0.135 login succeeded
+2020-12-31 15:12:13 HTTP client 192.168.0.156 login succeeded
+2020-12-31 15:18:11 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 643C.
+2020-12-31 15:18:11 Auto tune heater 1 completed in 183 sec
+Use M307 H1 to see the result, or M500 to save the result in config-override.g
